@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://liriano-formation.fr/</title>
+  <link>http://liriano-formation.fr/</link>
+
+<item>
+     <link>http://liriano-formation.fr/</link>
+     <title>Gaelle Liriano, Formatrice Freelance en management</title>
+     <description>J'accompagne les dirigeants de TPE, PME et professions libérales en management et gestion commerciale. Mon secteur d'activité est Rennes et ses environs (Ille et Vilaine)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://liriano-formation.fr/view/frontend/expertise.php</link>
+     <title>Gaelle Liriano, Formatrice Freelance en management</title>
+     <description>J'accompagne les dirigeants de TPE, PME et professions libérales en management et gestion commerciale. Mon secteur d'activité est Rennes et ses environs (Ille et Vilaine)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://liriano-formation.fr/view/frontend/formation.php</link>
+     <title>Gaelle Liriano, Formatrice Freelance en management</title>
+     <description>J'accompagne les dirigeants de TPE, PME et professions libérales en management et gestion commerciale. Mon secteur d'activité est Rennes et ses environs (Ille et Vilaine)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://liriano-formation.fr/view/frontend/apropos.php</link>
+     <title>Gaelle Liriano, Formatrice Freelance en management</title>
+     <description>J'accompagne les dirigeants de TPE, PME et professions libérales en management et gestion commerciale. Mon secteur d'activité est Rennes et ses environs (Ille et Vilaine)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://liriano-formation.fr/view/frontend/contact.php</link>
+     <title>Gaelle Liriano, Formatrice Freelance en management</title>
+     <description>J'accompagne les dirigeants de TPE, PME et professions libérales en management et gestion commerciale. Mon secteur d'activité est Rennes et ses environs (Ille et Vilaine)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://liriano-formation.fr/view/frontend/login.php</link>
+     <title>Gaelle Liriano, Formatrice Freelance en management</title>
+     <description>J'accompagne les dirigeants de TPE, PME et professions libérales en management et gestion commerciale. Mon secteur d'activité est Rennes et ses environs (Ille et Vilaine)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

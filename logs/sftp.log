@@ -1,0 +1,891 @@
+Mar  9 10:59:31 10.71.57.0 u99526522 Connection from 10.71.57.0 port 31518 on 82.165.87.69 port 22
+Mar  9 10:59:32 10.71.57.0 u99526522 Accepted password for u99526522 from 10.71.57.0 port 31518 ssh2
+Mar  9 10:59:32 10.71.57.0 u99526522 Starting session: subsystem 'sftp' for u99526522 from 10.71.57.0 port 31518
+Mar  9 10:59:32 10.71.57.0 u99526522 session opened for local user u99526522 from [10.71.57.0]
+Mar  9 10:59:45 10.71.57.0 u99526522 Connection from 10.71.57.0 port 44764 on 82.165.87.69 port 22
+Mar  9 10:59:45 10.71.57.0 u99526522 Accepted password for u99526522 from 10.71.57.0 port 44764 ssh2
+Mar  9 10:59:45 10.71.57.0 u99526522 Connection from 10.71.57.0 port 44766 on 82.165.87.69 port 22
+Mar  9 10:59:45 10.71.57.0 u99526522 Accepted password for u99526522 from 10.71.57.0 port 44766 ssh2
+Mar  9 10:59:45 10.71.57.0 u99526522 Starting session: subsystem 'sftp' for u99526522 from 10.71.57.0 port 44764
+Mar  9 10:59:45 10.71.57.0 u99526522 Starting session: subsystem 'sftp' for u99526522 from 10.71.57.0 port 44766
+Mar  9 10:59:45 10.71.57.0 u99526522 session opened for local user u99526522 from [10.71.57.0]
+Mar  9 10:59:45 10.71.57.0 u99526522 session opened for local user u99526522 from [10.71.57.0]
+Mar  9 10:59:46 10.71.57.0 u99526522 open "/index.php" flags READ mode 0666
+Mar  9 10:59:46 10.71.57.0 u99526522 open "/photoperso.psd" flags READ mode 0666
+Mar  9 10:59:46 10.71.57.0 u99526522 close "/index.php" bytes read 2115 written 0
+Mar  9 10:59:46 10.71.57.0 u99526522 [10.71.57.0|get|0|2115|0|0|0|2f696e6465782e706870|]
+Mar  9 10:59:46 10.71.57.0 u99526522 open "/ror.xml" flags READ mode 0666
+Mar  9 10:59:47 10.71.57.0 u99526522 close "/ror.xml" bytes read 3205 written 0
+Mar  9 10:59:47 10.71.57.0 u99526522 [10.71.57.0|get|1|3205|0|0|0|2f726f722e786d6c|]
+Mar  9 10:59:47 10.71.57.0 u99526522 open "/sitemap.html" flags READ mode 0666
+Mar  9 10:59:48 10.71.57.0 u99526522 close "/sitemap.html" bytes read 3878 written 0
+Mar  9 10:59:48 10.71.57.0 u99526522 [10.71.57.0|get|1|3878|0|0|0|2f736974656d61702e68746d6c|]
+Mar  9 10:59:51 10.71.57.0 u99526522 open "/controller/controllerBackEnd.php" flags READ mode 0666
+Mar  9 10:59:52 10.71.57.0 u99526522 close "/controller/controllerBackEnd.php" bytes read 6784 written 0
+Mar  9 10:59:52 10.71.57.0 u99526522 [10.71.57.0|get|1|6784|0|0|0|2f636f6e74726f6c6c65722f636f6e74726f6c6c65724261636b456e642e706870|]
+Mar  9 10:59:52 10.71.57.0 u99526522 open "/controller/controllerFrontEnd.php" flags READ mode 0666
+Mar  9 10:59:53 10.71.57.0 u99526522 close "/controller/controllerFrontEnd.php" bytes read 655 written 0
+Mar  9 10:59:53 10.71.57.0 u99526522 [10.71.57.0|get|1|655|0|0|0|2f636f6e74726f6c6c65722f636f6e74726f6c6c657246726f6e74456e642e706870|]
+Mar  9 10:59:53 10.71.57.0 u99526522 open "/css/Hover-master.zip" flags READ mode 0666
+Mar  9 11:00:00 10.71.57.0 u99526522 close "/css/Hover-master.zip" bytes read 719426 written 0
+Mar  9 11:00:00 10.71.57.0 u99526522 [10.71.57.0|get|7|719426|0|0|0|2f6373732f486f7665722d6d61737465722e7a6970|]
+Mar  9 11:00:00 10.71.57.0 u99526522 open "/css/style.css" flags READ mode 0666
+Mar  9 11:00:01 10.71.57.0 u99526522 close "/css/style.css" bytes read 6926 written 0
+Mar  9 11:00:01 10.71.57.0 u99526522 [10.71.57.0|get|1|6926|0|0|0|2f6373732f7374796c652e637373|]
+Mar  9 11:00:01 10.71.57.0 u99526522 close "/photoperso.psd" bytes read 4242394 written 0
+Mar  9 11:00:01 10.71.57.0 u99526522 [10.71.57.0|get|15|4242394|0|0|0|2f70686f746f706572736f2e707364|]
+Mar  9 11:00:01 10.71.57.0 u99526522 open "/css/Hover-master/two-up.png" flags READ mode 0666
+Mar  9 11:00:01 10.71.57.0 u99526522 open "/css/Hover-master/sequence-logo.png" flags READ mode 0666
+Mar  9 11:00:01 10.71.57.0 u99526522 close "/css/Hover-master/sequence-logo.png" bytes read 3400 written 0
+Mar  9 11:00:01 10.71.57.0 u99526522 [10.71.57.0|get|0|3400|0|0|0|2f6373732f486f7665722d6d61737465722f73657175656e63652d6c6f676f2e706e67|]
+Mar  9 11:00:02 10.71.57.0 u99526522 open "/css/Hover-master/README.md" flags READ mode 0666
+Mar  9 11:00:02 10.71.57.0 u99526522 close "/css/Hover-master/README.md" bytes read 14472 written 0
+Mar  9 11:00:02 10.71.57.0 u99526522 [10.71.57.0|get|0|14472|0|0|0|2f6373732f486f7665722d6d61737465722f524541444d452e6d64|]
+Mar  9 11:00:02 10.71.57.0 u99526522 close "/css/Hover-master/two-up.png" bytes read 172284 written 0
+Mar  9 11:00:02 10.71.57.0 u99526522 [10.71.57.0|get|1|172284|0|0|0|2f6373732f486f7665722d6d61737465722f74776f2d75702e706e67|]
+Mar  9 11:00:02 10.71.57.0 u99526522 open "/css/Hover-master/photo-stack.png" flags READ mode 0666
+Mar  9 11:00:02 10.71.57.0 u99526522 open "/css/Hover-master/package.json" flags READ mode 0666
+Mar  9 11:00:03 10.71.57.0 u99526522 close "/css/Hover-master/package.json" bytes read 615 written 0
+Mar  9 11:00:03 10.71.57.0 u99526522 [10.71.57.0|get|0|615|0|0|0|2f6373732f486f7665722d6d61737465722f7061636b6167652e6a736f6e|]
+Mar  9 11:00:03 10.71.57.0 u99526522 open "/css/Hover-master/modern-slide-in.png" flags READ mode 0666
+Mar  9 11:00:03 10.71.57.0 u99526522 close "/css/Hover-master/photo-stack.png" bytes read 282542 written 0
+Mar  9 11:00:03 10.71.57.0 u99526522 [10.71.57.0|get|1|282542|0|0|0|2f6373732f486f7665722d6d61737465722f70686f746f2d737461636b2e706e67|]
+Mar  9 11:00:03 10.71.57.0 u99526522 open "/css/Hover-master/logo-transparent.png" flags READ mode 0666
+Mar  9 11:00:04 10.71.57.0 u99526522 close "/css/Hover-master/modern-slide-in.png" bytes read 96172 written 0
+Mar  9 11:00:04 10.71.57.0 u99526522 [10.71.57.0|get|1|96172|0|0|0|2f6373732f486f7665722d6d61737465722f6d6f6465726e2d736c6964652d696e2e706e67|]
+Mar  9 11:00:04 10.71.57.0 u99526522 close "/css/Hover-master/logo-transparent.png" bytes read 1047 written 0
+Mar  9 11:00:04 10.71.57.0 u99526522 [10.71.57.0|get|1|1047|0|0|0|2f6373732f486f7665722d6d61737465722f6c6f676f2d7472616e73706172656e742e706e67|]
+Mar  9 11:00:04 10.71.57.0 u99526522 open "/css/Hover-master/license.txt" flags READ mode 0666
+Mar  9 11:00:04 10.71.57.0 u99526522 open "/css/Hover-master/index.html" flags READ mode 0666
+Mar  9 11:00:04 10.71.57.0 u99526522 close "/css/Hover-master/index.html" bytes read 19604 written 0
+Mar  9 11:00:04 10.71.57.0 u99526522 [10.71.57.0|get|0|19604|0|0|0|2f6373732f486f7665722d6d61737465722f696e6465782e68746d6c|]
+Mar  9 11:00:04 10.71.57.0 u99526522 open "/css/Hover-master/hover.jpg" flags READ mode 0666
+Mar  9 11:00:04 10.71.57.0 u99526522 close "/css/Hover-master/license.txt" bytes read 2076 written 0
+Mar  9 11:00:04 10.71.57.0 u99526522 [10.71.57.0|get|0|2076|0|0|0|2f6373732f486f7665722d6d61737465722f6c6963656e73652e747874|]
+Mar  9 11:00:04 10.71.57.0 u99526522 close "/css/Hover-master/hover.jpg" bytes read 5701 written 0
+Mar  9 11:00:04 10.71.57.0 u99526522 [10.71.57.0|get|0|5701|0|0|0|2f6373732f486f7665722d6d61737465722f686f7665722e6a7067|]
+Mar  9 11:00:05 10.71.57.0 u99526522 open "/css/Hover-master/HISTORY.md" flags READ mode 0666
+Mar  9 11:00:05 10.71.57.0 u99526522 open "/css/Hover-master/Gruntfile.js" flags READ mode 0666
+Mar  9 11:00:05 10.71.57.0 u99526522 close "/css/Hover-master/HISTORY.md" bytes read 1323 written 0
+Mar  9 11:00:05 10.71.57.0 u99526522 [10.71.57.0|get|0|1323|0|0|0|2f6373732f486f7665722d6d61737465722f484953544f52592e6d64|]
+Mar  9 11:00:05 10.71.57.0 u99526522 close "/css/Hover-master/Gruntfile.js" bytes read 2096 written 0
+Mar  9 11:00:05 10.71.57.0 u99526522 [10.71.57.0|get|0|2096|0|0|0|2f6373732f486f7665722d6d61737465722f4772756e7466696c652e6a73|]
+Mar  9 11:00:05 10.71.57.0 u99526522 open "/css/Hover-master/CONTRIBUTING.md" flags READ mode 0666
+Mar  9 11:00:05 10.71.57.0 u99526522 open "/css/Hover-master/bower.json" flags READ mode 0666
+Mar  9 11:00:05 10.71.57.0 u99526522 close "/css/Hover-master/bower.json" bytes read 731 written 0
+Mar  9 11:00:05 10.71.57.0 u99526522 [10.71.57.0|get|0|731|0|0|0|2f6373732f486f7665722d6d61737465722f626f7765722e6a736f6e|]
+Mar  9 11:00:05 10.71.57.0 u99526522 close "/css/Hover-master/CONTRIBUTING.md" bytes read 1729 written 0
+Mar  9 11:00:05 10.71.57.0 u99526522 [10.71.57.0|get|0|1729|0|0|0|2f6373732f486f7665722d6d61737465722f434f4e545249425554494e472e6d64|]
+Mar  9 11:00:06 10.71.57.0 u99526522 open "/css/Hover-master/.gitignore" flags READ mode 0666
+Mar  9 11:00:06 10.71.57.0 u99526522 open "/css/Hover-master/.editorconfig" flags READ mode 0666
+Mar  9 11:00:06 10.71.57.0 u99526522 close "/css/Hover-master/.editorconfig" bytes read 206 written 0
+Mar  9 11:00:06 10.71.57.0 u99526522 [10.71.57.0|get|0|206|0|0|0|2f6373732f486f7665722d6d61737465722f2e656469746f72636f6e666967|]
+Mar  9 11:00:06 10.71.57.0 u99526522 close "/css/Hover-master/.gitignore" bytes read 120 written 0
+Mar  9 11:00:06 10.71.57.0 u99526522 [10.71.57.0|get|0|120|0|0|0|2f6373732f486f7665722d6d61737465722f2e67697469676e6f7265|]
+Mar  9 11:00:06 10.71.57.0 u99526522 open "/css/Hover-master/css/hover.css.map" flags READ mode 0666
+Mar  9 11:00:06 10.71.57.0 u99526522 open "/css/Hover-master/css/hover.css" flags READ mode 0666
+Mar  9 11:00:07 10.71.57.0 u99526522 close "/css/Hover-master/css/hover.css" bytes read 114697 written 0
+Mar  9 11:00:07 10.71.57.0 u99526522 [10.71.57.0|get|1|114697|0|0|0|2f6373732f486f7665722d6d61737465722f6373732f686f7665722e637373|]
+Mar  9 11:00:07 10.71.57.0 u99526522 close "/css/Hover-master/css/hover.css.map" bytes read 74507 written 0
+Mar  9 11:00:07 10.71.57.0 u99526522 [10.71.57.0|get|1|74507|0|0|0|2f6373732f486f7665722d6d61737465722f6373732f686f7665722e6373732e6d6170|]
+Mar  9 11:00:07 10.71.57.0 u99526522 open "/css/Hover-master/css/demo-page.css" flags READ mode 0666
+Mar  9 11:00:07 10.71.57.0 u99526522 open "/css/Hover-master/css/hover-min.css" flags READ mode 0666
+Mar  9 11:00:07 10.71.57.0 u99526522 close "/css/Hover-master/css/demo-page.css" bytes read 9515 written 0
+Mar  9 11:00:07 10.71.57.0 u99526522 [10.71.57.0|get|0|9515|0|0|0|2f6373732f486f7665722d6d61737465722f6373732f64656d6f2d706167652e637373|]
+Mar  9 11:00:08 10.71.57.0 u99526522 close "/css/Hover-master/css/hover-min.css" bytes read 95282 written 0
+Mar  9 11:00:08 10.71.57.0 u99526522 [10.71.57.0|get|1|95282|0|0|0|2f6373732f486f7665722d6d61737465722f6373732f686f7665722d6d696e2e637373|]
+Mar  9 11:00:08 10.71.57.0 u99526522 open "/css/Hover-master/less/_options.less" flags READ mode 0666
+Mar  9 11:00:08 10.71.57.0 u99526522 close "/css/Hover-master/less/_options.less" bytes read 989 written 0
+Mar  9 11:00:08 10.71.57.0 u99526522 [10.71.57.0|get|0|989|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f5f6f7074696f6e732e6c657373|]
+Mar  9 11:00:08 10.71.57.0 u99526522 open "/css/Hover-master/less/_mixins.less" flags READ mode 0666
+Mar  9 11:00:08 10.71.57.0 u99526522 open "/css/Hover-master/less/hover.less" flags READ mode 0666
+Mar  9 11:00:08 10.71.57.0 u99526522 close "/css/Hover-master/less/_mixins.less" bytes read 771 written 0
+Mar  9 11:00:08 10.71.57.0 u99526522 [10.71.57.0|get|0|771|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f5f6d6978696e732e6c657373|]
+Mar  9 11:00:08 10.71.57.0 u99526522 close "/css/Hover-master/less/hover.less" bytes read 15437 written 0
+Mar  9 11:00:08 10.71.57.0 u99526522 [10.71.57.0|get|0|15437|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f686f7665722e6c657373|]
+Mar  9 11:00:09 10.71.57.0 u99526522 open "/css/Hover-master/less/_hacks.less" flags READ mode 0666
+Mar  9 11:00:09 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_wobble-vertical.less" flags READ mode 0666
+Mar  9 11:00:09 10.71.57.0 u99526522 close "/css/Hover-master/less/_hacks.less" bytes read 740 written 0
+Mar  9 11:00:09 10.71.57.0 u99526522 [10.71.57.0|get|0|740|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f5f6861636b732e6c657373|]
+Mar  9 11:00:09 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_wobble-vertical.less" bytes read 663 written 0
+Mar  9 11:00:09 10.71.57.0 u99526522 [10.71.57.0|get|0|663|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d766572746963616c2e6c657373|]
+Mar  9 11:00:09 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_wobble-top.less" flags READ mode 0666
+Mar  9 11:00:09 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_wobble-to-top-right.less" flags READ mode 0666
+Mar  9 11:00:10 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_wobble-to-top-right.less" bytes read 758 written 0
+Mar  9 11:00:10 10.71.57.0 u99526522 [10.71.57.0|get|1|758|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d746f2d746f702d72696768742e6c657373|]
+Mar  9 11:00:10 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_wobble-top.less" bytes read 653 written 0
+Mar  9 11:00:10 10.71.57.0 u99526522 [10.71.57.0|get|1|653|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d746f702e6c657373|]
+Mar  9 11:00:10 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_wobble-to-bottom-right.less" flags READ mode 0666
+Mar  9 11:00:10 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_wobble-skew.less" flags READ mode 0666
+Mar  9 11:00:10 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_wobble-skew.less" bytes read 619 written 0
+Mar  9 11:00:10 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_wobble-to-bottom-right.less" bytes read 715 written 0
+Mar  9 11:00:10 10.71.57.0 u99526522 [10.71.57.0|get|0|715|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d746f2d626f74746f6d2d72696768742e6c657373|]
+Mar  9 11:00:10 10.71.57.0 u99526522 [10.71.57.0|get|0|619|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d736b65772e6c657373|]
+Mar  9 11:00:10 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_wobble-horizontal.less" flags READ mode 0666
+Mar  9 11:00:10 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_wobble-bottom.less" flags READ mode 0666
+Mar  9 11:00:11 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_wobble-horizontal.less" bytes read 671 written 0
+Mar  9 11:00:11 10.71.57.0 u99526522 [10.71.57.0|get|1|671|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d686f72697a6f6e74616c2e6c657373|]
+Mar  9 11:00:11 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_wobble-bottom.less" bytes read 665 written 0
+Mar  9 11:00:11 10.71.57.0 u99526522 [10.71.57.0|get|1|665|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d626f74746f6d2e6c657373|]
+Mar  9 11:00:11 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_skew.less" flags READ mode 0666
+Mar  9 11:00:11 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_skew-forward.less" flags READ mode 0666
+Mar  9 11:00:11 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_skew.less" bytes read 202 written 0
+Mar  9 11:00:11 10.71.57.0 u99526522 [10.71.57.0|get|0|202|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f736b65772e6c657373|]
+Mar  9 11:00:11 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_skew-forward.less" bytes read 256 written 0
+Mar  9 11:00:11 10.71.57.0 u99526522 [10.71.57.0|get|0|256|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f736b65772d666f72776172642e6c657373|]
+Mar  9 11:00:11 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_skew-backward.less" flags READ mode 0666
+Mar  9 11:00:11 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_sink.less" flags READ mode 0666
+Mar  9 11:00:11 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_skew-backward.less" bytes read 257 written 0
+Mar  9 11:00:11 10.71.57.0 u99526522 [10.71.57.0|get|0|257|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f736b65772d6261636b776172642e6c657373|]
+Mar  9 11:00:12 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_sink.less" bytes read 255 written 0
+Mar  9 11:00:12 10.71.57.0 u99526522 [10.71.57.0|get|1|255|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f73696e6b2e6c657373|]
+Mar  9 11:00:12 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_shrink.less" flags READ mode 0666
+Mar  9 11:00:12 10.71.57.0 u99526522 sent status No such file
+Mar  9 11:00:12 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_rotate.less" flags READ mode 0666
+Mar  9 11:00:12 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_shrink.less" bytes read 203 written 0
+Mar  9 11:00:12 10.71.57.0 u99526522 [10.71.57.0|get|0|203|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f736872696e6b2e6c657373|]
+Mar  9 11:00:12 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_rotate.less" bytes read 206 written 0
+Mar  9 11:00:12 10.71.57.0 u99526522 [10.71.57.0|get|0|206|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f726f746174652e6c657373|]
+Mar  9 11:00:12 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_push.less" flags READ mode 0666
+Mar  9 11:00:12 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_pulse.less" flags READ mode 0666
+Mar  9 11:00:12 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_push.less" bytes read 381 written 0
+Mar  9 11:00:12 10.71.57.0 u99526522 [10.71.57.0|get|0|381|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f707573682e6c657373|]
+Mar  9 11:00:13 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_pulse.less" bytes read 392 written 0
+Mar  9 11:00:13 10.71.57.0 u99526522 [10.71.57.0|get|1|392|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f70756c73652e6c657373|]
+Mar  9 11:00:13 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_pulse-shrink.less" flags READ mode 0666
+Mar  9 11:00:13 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_pulse-grow.less" flags READ mode 0666
+Mar  9 11:00:13 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_pulse-shrink.less" bytes read 430 written 0
+Mar  9 11:00:13 10.71.57.0 u99526522 [10.71.57.0|get|0|430|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f70756c73652d736872696e6b2e6c657373|]
+Mar  9 11:00:13 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_pulse-grow.less" bytes read 423 written 0
+Mar  9 11:00:13 10.71.57.0 u99526522 [10.71.57.0|get|0|423|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f70756c73652d67726f772e6c657373|]
+Mar  9 11:00:13 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_pop.less" flags READ mode 0666
+Mar  9 11:00:13 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_hang.less" flags READ mode 0666
+Mar  9 11:00:13 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_pop.less" bytes read 344 written 0
+Mar  9 11:00:13 10.71.57.0 u99526522 [10.71.57.0|get|0|344|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f706f702e6c657373|]
+Mar  9 11:00:13 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_grow.less" flags READ mode 0666
+Mar  9 11:00:13 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_hang.less" bytes read 749 written 0
+Mar  9 11:00:13 10.71.57.0 u99526522 [10.71.57.0|get|0|749|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f68616e672e6c657373|]
+Mar  9 11:00:14 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_grow-rotate.less" flags READ mode 0666
+Mar  9 11:00:14 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_grow.less" bytes read 200 written 0
+Mar  9 11:00:14 10.71.57.0 u99526522 [10.71.57.0|get|1|200|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f67726f772e6c657373|]
+Mar  9 11:00:14 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_grow-rotate.less" bytes read 227 written 0
+Mar  9 11:00:14 10.71.57.0 u99526522 [10.71.57.0|get|0|227|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f67726f772d726f746174652e6c657373|]
+Mar  9 11:00:14 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_forward.less" flags READ mode 0666
+Mar  9 11:00:14 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_float.less" flags READ mode 0666
+Mar  9 11:00:14 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_forward.less" bytes read 211 written 0
+Mar  9 11:00:14 10.71.57.0 u99526522 [10.71.57.0|get|0|211|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f666f72776172642e6c657373|]
+Mar  9 11:00:14 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_buzz.less" flags READ mode 0666
+Mar  9 11:00:14 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_float.less" bytes read 258 written 0
+Mar  9 11:00:14 10.71.57.0 u99526522 [10.71.57.0|get|0|258|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f666c6f61742e6c657373|]
+Mar  9 11:00:14 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_buzz.less" bytes read 430 written 0
+Mar  9 11:00:14 10.71.57.0 u99526522 [10.71.57.0|get|0|430|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f62757a7a2e6c657373|]
+Mar  9 11:00:14 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_buzz-out.less" flags READ mode 0666
+Mar  9 11:00:15 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_bounce-out.less" flags READ mode 0666
+Mar  9 11:00:15 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_buzz-out.less" bytes read 960 written 0
+Mar  9 11:00:15 10.71.57.0 u99526522 [10.71.57.0|get|1|960|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f62757a7a2d6f75742e6c657373|]
+Mar  9 11:00:15 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_bounce-out.less" bytes read 240 written 0
+Mar  9 11:00:15 10.71.57.0 u99526522 [10.71.57.0|get|0|240|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f626f756e63652d6f75742e6c657373|]
+Mar  9 11:00:15 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_bounce-in.less" flags READ mode 0666
+Mar  9 11:00:15 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_backward.less" flags READ mode 0666
+Mar  9 11:00:15 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_backward.less" bytes read 214 written 0
+Mar  9 11:00:15 10.71.57.0 u99526522 [10.71.57.0|get|0|214|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f6261636b776172642e6c657373|]
+Mar  9 11:00:15 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/2d-transitions/_bob.less" flags READ mode 0666
+Mar  9 11:00:16 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_bounce-in.less" bytes read 239 written 0
+Mar  9 11:00:16 10.71.57.0 u99526522 [10.71.57.0|get|1|239|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f626f756e63652d696e2e6c657373|]
+Mar  9 11:00:16 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/2d-transitions/_bob.less" bytes read 749 written 0
+Mar  9 11:00:16 10.71.57.0 u99526522 [10.71.57.0|get|1|749|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f32642d7472616e736974696f6e732f5f626f622e6c657373|]
+Mar  9 11:00:16 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_sweep-to-top.less" flags READ mode 0666
+Mar  9 11:00:16 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_sweep-to-right.less" flags READ mode 0666
+Mar  9 11:00:16 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_sweep-to-top.less" bytes read 632 written 0
+Mar  9 11:00:16 10.71.57.0 u99526522 [10.71.57.0|get|0|632|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f73776565702d746f2d746f702e6c657373|]
+Mar  9 11:00:16 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_sweep-to-right.less" bytes read 633 written 0
+Mar  9 11:00:16 10.71.57.0 u99526522 [10.71.57.0|get|0|633|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f73776565702d746f2d72696768742e6c657373|]
+Mar  9 11:00:16 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_sweep-to-left.less" flags READ mode 0666
+Mar  9 11:00:16 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_sweep-to-bottom.less" flags READ mode 0666
+Mar  9 11:00:17 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_sweep-to-left.less" bytes read 634 written 0
+Mar  9 11:00:17 10.71.57.0 u99526522 [10.71.57.0|get|1|634|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f73776565702d746f2d6c6566742e6c657373|]
+Mar  9 11:00:17 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_sweep-to-bottom.less" bytes read 635 written 0
+Mar  9 11:00:17 10.71.57.0 u99526522 [10.71.57.0|get|1|635|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f73776565702d746f2d626f74746f6d2e6c657373|]
+Mar  9 11:00:17 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_shutter-out-vertical.less" flags READ mode 0666
+Mar  9 11:00:17 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_shutter-out-horizontal.less" flags READ mode 0666
+Mar  9 11:00:17 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_shutter-out-vertical.less" bytes read 671 written 0
+Mar  9 11:00:17 10.71.57.0 u99526522 [10.71.57.0|get|0|671|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f736875747465722d6f75742d766572746963616c2e6c657373|]
+Mar  9 11:00:17 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_shutter-out-horizontal.less" bytes read 675 written 0
+Mar  9 11:00:17 10.71.57.0 u99526522 [10.71.57.0|get|0|675|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f736875747465722d6f75742d686f72697a6f6e74616c2e6c657373|]
+Mar  9 11:00:17 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_shutter-in-vertical.less" flags READ mode 0666
+Mar  9 11:00:17 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_shutter-in-horizontal.less" flags READ mode 0666
+Mar  9 11:00:17 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_shutter-in-vertical.less" bytes read 669 written 0
+Mar  9 11:00:17 10.71.57.0 u99526522 [10.71.57.0|get|0|669|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f736875747465722d696e2d766572746963616c2e6c657373|]
+Mar  9 11:00:18 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_rectangle-out.less" flags READ mode 0666
+Mar  9 11:00:18 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_shutter-in-horizontal.less" bytes read 673 written 0
+Mar  9 11:00:18 10.71.57.0 u99526522 [10.71.57.0|get|1|673|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f736875747465722d696e2d686f72697a6f6e74616c2e6c657373|]
+Mar  9 11:00:18 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_rectangle-in.less" flags READ mode 0666
+Mar  9 11:00:18 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_rectangle-out.less" bytes read 619 written 0
+Mar  9 11:00:18 10.71.57.0 u99526522 [10.71.57.0|get|0|619|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f72656374616e676c652d6f75742e6c657373|]
+Mar  9 11:00:18 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_radial-out.less" flags READ mode 0666
+Mar  9 11:00:18 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_rectangle-in.less" bytes read 617 written 0
+Mar  9 11:00:18 10.71.57.0 u99526522 [10.71.57.0|get|0|617|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f72656374616e676c652d696e2e6c657373|]
+Mar  9 11:00:18 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_radial-out.less" bytes read 655 written 0
+Mar  9 11:00:18 10.71.57.0 u99526522 [10.71.57.0|get|0|655|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f72616469616c2d6f75742e6c657373|]
+Mar  9 11:00:18 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_radial-in.less" flags READ mode 0666
+Mar  9 11:00:18 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_fade.less" flags READ mode 0666
+Mar  9 11:00:18 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_radial-in.less" bytes read 653 written 0
+Mar  9 11:00:18 10.71.57.0 u99526522 [10.71.57.0|get|0|653|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f72616469616c2d696e2e6c657373|]
+Mar  9 11:00:19 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_bounce-to-top.less" flags READ mode 0666
+Mar  9 11:00:19 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_fade.less" bytes read 250 written 0
+Mar  9 11:00:19 10.71.57.0 u99526522 [10.71.57.0|get|1|250|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f666164652e6c657373|]
+Mar  9 11:00:19 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_bounce-to-right.less" flags READ mode 0666
+Mar  9 11:00:19 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_bounce-to-top.less" bytes read 704 written 0
+Mar  9 11:00:19 10.71.57.0 u99526522 [10.71.57.0|get|0|704|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f626f756e63652d746f2d746f702e6c657373|]
+Mar  9 11:00:19 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_bounce-to-left.less" flags READ mode 0666
+Mar  9 11:00:19 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_bounce-to-left.less" bytes read 706 written 0
+Mar  9 11:00:19 10.71.57.0 u99526522 [10.71.57.0|get|0|706|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f626f756e63652d746f2d6c6566742e6c657373|]
+Mar  9 11:00:19 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_bounce-to-right.less" bytes read 705 written 0
+Mar  9 11:00:19 10.71.57.0 u99526522 [10.71.57.0|get|0|705|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f626f756e63652d746f2d72696768742e6c657373|]
+Mar  9 11:00:19 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_back-pulse.less" flags READ mode 0666
+Mar  9 11:00:19 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/background-transitions/_bounce-to-bottom.less" flags READ mode 0666
+Mar  9 11:00:20 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_bounce-to-bottom.less" bytes read 707 written 0
+Mar  9 11:00:20 10.71.57.0 u99526522 [10.71.57.0|get|1|707|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f626f756e63652d746f2d626f74746f6d2e6c657373|]
+Mar  9 11:00:20 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/background-transitions/_back-pulse.less" bytes read 640 written 0
+Mar  9 11:00:20 10.71.57.0 u99526522 [10.71.57.0|get|1|640|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f6261636b2d70756c73652e6c657373|]
+Mar  9 11:00:20 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_underline-from-right.less" flags READ mode 0666
+Mar  9 11:00:20 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_underline-reveal.less" flags READ mode 0666
+Mar  9 11:00:20 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_underline-reveal.less" bytes read 551 written 0
+Mar  9 11:00:20 10.71.57.0 u99526522 [10.71.57.0|get|0|551|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f756e6465726c696e652d72657665616c2e6c657373|]
+Mar  9 11:00:20 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_underline-from-right.less" bytes read 490 written 0
+Mar  9 11:00:20 10.71.57.0 u99526522 [10.71.57.0|get|0|490|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f756e6465726c696e652d66726f6d2d72696768742e6c657373|]
+Mar  9 11:00:20 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_underline-from-left.less" flags READ mode 0666
+Mar  9 11:00:20 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_underline-from-center.less" flags READ mode 0666
+Mar  9 11:00:21 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_underline-from-left.less" bytes read 490 written 0
+Mar  9 11:00:21 10.71.57.0 u99526522 [10.71.57.0|get|1|490|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f756e6465726c696e652d66726f6d2d6c6566742e6c657373|]
+Mar  9 11:00:21 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_underline-from-center.less" bytes read 513 written 0
+Mar  9 11:00:21 10.71.57.0 u99526522 [10.71.57.0|get|1|513|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f756e6465726c696e652d66726f6d2d63656e7465722e6c657373|]
+Mar  9 11:00:21 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_trim.less" flags READ mode 0666
+Mar  9 11:00:21 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_round-corners.less" flags READ mode 0666
+Mar  9 11:00:21 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_round-corners.less" bytes read 208 written 0
+Mar  9 11:00:21 10.71.57.0 u99526522 [10.71.57.0|get|0|208|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f726f756e642d636f726e6572732e6c657373|]
+Mar  9 11:00:21 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_trim.less" bytes read 489 written 0
+Mar  9 11:00:21 10.71.57.0 u99526522 [10.71.57.0|get|0|489|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f7472696d2e6c657373|]
+Mar  9 11:00:21 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_ripple-in.less" flags READ mode 0666
+Mar  9 11:00:21 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_ripple-out.less" flags READ mode 0666
+Mar  9 11:00:22 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_ripple-in.less" bytes read 588 written 0
+Mar  9 11:00:22 10.71.57.0 u99526522 [10.71.57.0|get|1|588|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f726970706c652d696e2e6c657373|]
+Mar  9 11:00:22 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_ripple-out.less" bytes read 578 written 0
+Mar  9 11:00:22 10.71.57.0 u99526522 [10.71.57.0|get|1|578|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f726970706c652d6f75742e6c657373|]
+Mar  9 11:00:22 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_reveal.less" flags READ mode 0666
+Mar  9 11:00:22 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_overline-reveal.less" flags READ mode 0666
+Mar  9 11:00:22 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_reveal.less" bytes read 552 written 0
+Mar  9 11:00:22 10.71.57.0 u99526522 [10.71.57.0|get|0|552|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f72657665616c2e6c657373|]
+Mar  9 11:00:22 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_overline-reveal.less" bytes read 547 written 0
+Mar  9 11:00:22 10.71.57.0 u99526522 [10.71.57.0|get|0|547|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f7665726c696e652d72657665616c2e6c657373|]
+Mar  9 11:00:22 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_overline-from-right.less" flags READ mode 0666
+Mar  9 11:00:22 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_overline-from-left.less" flags READ mode 0666
+Mar  9 11:00:23 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_overline-from-right.less" bytes read 485 written 0
+Mar  9 11:00:23 10.71.57.0 u99526522 [10.71.57.0|get|1|485|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f7665726c696e652d66726f6d2d72696768742e6c657373|]
+Mar  9 11:00:23 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_overline-from-left.less" bytes read 485 written 0
+Mar  9 11:00:23 10.71.57.0 u99526522 [10.71.57.0|get|1|485|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f7665726c696e652d66726f6d2d6c6566742e6c657373|]
+Mar  9 11:00:23 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_outline-out.less" flags READ mode 0666
+Mar  9 11:00:23 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_overline-from-center.less" flags READ mode 0666
+Mar  9 11:00:23 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_overline-from-center.less" bytes read 508 written 0
+Mar  9 11:00:23 10.71.57.0 u99526522 [10.71.57.0|get|0|508|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f7665726c696e652d66726f6d2d63656e7465722e6c657373|]
+Mar  9 11:00:23 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_outline-in.less" flags READ mode 0666
+Mar  9 11:00:23 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_outline-out.less" bytes read 628 written 0
+Mar  9 11:00:23 10.71.57.0 u99526522 [10.71.57.0|get|0|628|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f75746c696e652d6f75742e6c657373|]
+Mar  9 11:00:24 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_outline-in.less" bytes read 850 written 0
+Mar  9 11:00:24 10.71.57.0 u99526522 [10.71.57.0|get|1|850|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f75746c696e652d696e2e6c657373|]
+Mar  9 11:00:24 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_border-fade.less" flags READ mode 0666
+Mar  9 11:00:24 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/border-transitions/_hollow.less" flags READ mode 0666
+Mar  9 11:00:24 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_border-fade.less" bytes read 482 written 0
+Mar  9 11:00:24 10.71.57.0 u99526522 [10.71.57.0|get|0|482|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f626f726465722d666164652e6c657373|]
+Mar  9 11:00:24 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/border-transitions/_hollow.less" bytes read 349 written 0
+Mar  9 11:00:24 10.71.57.0 u99526522 [10.71.57.0|get|0|349|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f626f726465722d7472616e736974696f6e732f5f686f6c6c6f772e6c657373|]
+Mar  9 11:00:24 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/curls/_curl-top-right.less" flags READ mode 0666
+Mar  9 11:00:24 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/curls/_curl-top-left.less" flags READ mode 0666
+Mar  9 11:00:24 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/curls/_curl-top-right.less" bytes read 637 written 0
+Mar  9 11:00:24 10.71.57.0 u99526522 [10.71.57.0|get|0|637|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6375726c732f5f6375726c2d746f702d72696768742e6c657373|]
+Mar  9 11:00:25 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/curls/_curl-top-left.less" bytes read 783 written 0
+Mar  9 11:00:25 10.71.57.0 u99526522 [10.71.57.0|get|1|783|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6375726c732f5f6375726c2d746f702d6c6566742e6c657373|]
+Mar  9 11:00:25 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/curls/_curl-bottom-left.less" flags READ mode 0666
+Mar  9 11:00:25 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/curls/_curl-bottom-right.less" flags READ mode 0666
+Mar  9 11:00:25 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/curls/_curl-bottom-left.less" bytes read 642 written 0
+Mar  9 11:00:25 10.71.57.0 u99526522 [10.71.57.0|get|0|642|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6375726c732f5f6375726c2d626f74746f6d2d6c6566742e6c657373|]
+Mar  9 11:00:25 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/curls/_curl-bottom-right.less" bytes read 647 written 0
+Mar  9 11:00:25 10.71.57.0 u99526522 [10.71.57.0|get|0|647|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f6375726c732f5f6375726c2d626f74746f6d2d72696768742e6c657373|]
+Mar  9 11:00:25 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-wobble-vertical.less" flags READ mode 0666
+Mar  9 11:00:25 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-wobble-horizontal.less" flags READ mode 0666
+Mar  9 11:00:25 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-wobble-vertical.less" bytes read 812 written 0
+Mar  9 11:00:25 10.71.57.0 u99526522 [10.71.57.0|get|0|812|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d776f62626c652d766572746963616c2e6c657373|]
+Mar  9 11:00:26 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-wobble-horizontal.less" bytes read 820 written 0
+Mar  9 11:00:26 10.71.57.0 u99526522 [10.71.57.0|get|1|820|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d776f62626c652d686f72697a6f6e74616c2e6c657373|]
+Mar  9 11:00:26 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-up.less" flags READ mode 0666
+Mar  9 11:00:26 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-spin.less" flags READ mode 0666
+Mar  9 11:00:26 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-spin.less" bytes read 294 written 0
+Mar  9 11:00:26 10.71.57.0 u99526522 [10.71.57.0|get|0|294|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d7370696e2e6c657373|]
+Mar  9 11:00:26 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-up.less" bytes read 473 written 0
+Mar  9 11:00:26 10.71.57.0 u99526522 [10.71.57.0|get|0|473|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d75702e6c657373|]
+Mar  9 11:00:26 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-sink.less" flags READ mode 0666
+Mar  9 11:00:26 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-sink-away.less" flags READ mode 0666
+Mar  9 11:00:26 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-sink-away.less" bytes read 531 written 0
+Mar  9 11:00:26 10.71.57.0 u99526522 [10.71.57.0|get|0|531|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d73696e6b2d617761792e6c657373|]
+Mar  9 11:00:27 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-shrink.less" flags READ mode 0666
+Mar  9 11:00:27 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-sink.less" bytes read 394 written 0
+Mar  9 11:00:27 10.71.57.0 u99526522 [10.71.57.0|get|1|394|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d73696e6b2e6c657373|]
+Mar  9 11:00:27 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-shrink.less" bytes read 392 written 0
+Mar  9 11:00:27 10.71.57.0 u99526522 [10.71.57.0|get|0|392|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d736872696e6b2e6c657373|]
+Mar  9 11:00:27 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-rotate.less" flags READ mode 0666
+Mar  9 11:00:27 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-push.less" flags READ mode 0666
+Mar  9 11:00:27 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-rotate.less" bytes read 414 written 0
+Mar  9 11:00:27 10.71.57.0 u99526522 [10.71.57.0|get|0|414|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d726f746174652e6c657373|]
+Mar  9 11:00:27 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-push.less" bytes read 643 written 0
+Mar  9 11:00:27 10.71.57.0 u99526522 [10.71.57.0|get|0|643|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d707573682e6c657373|]
+Mar  9 11:00:27 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-pulse.less" flags READ mode 0666
+Mar  9 11:00:27 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-pulse-shrink.less" flags READ mode 0666
+Mar  9 11:00:28 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-pulse.less" bytes read 542 written 0
+Mar  9 11:00:28 10.71.57.0 u99526522 [10.71.57.0|get|1|542|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d70756c73652e6c657373|]
+Mar  9 11:00:28 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-pulse-shrink.less" bytes read 581 written 0
+Mar  9 11:00:28 10.71.57.0 u99526522 [10.71.57.0|get|1|581|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d70756c73652d736872696e6b2e6c657373|]
+Mar  9 11:00:28 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-pulse-grow.less" flags READ mode 0666
+Mar  9 11:00:28 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-pop.less" flags READ mode 0666
+Mar  9 11:00:28 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-pulse-grow.less" bytes read 574 written 0
+Mar  9 11:00:28 10.71.57.0 u99526522 [10.71.57.0|get|0|574|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d70756c73652d67726f772e6c657373|]
+Mar  9 11:00:28 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-pop.less" bytes read 640 written 0
+Mar  9 11:00:28 10.71.57.0 u99526522 [10.71.57.0|get|0|640|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d706f702e6c657373|]
+Mar  9 11:00:28 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-hang.less" flags READ mode 0666
+Mar  9 11:00:28 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-grow.less" flags READ mode 0666
+Mar  9 11:00:29 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-grow.less" bytes read 403 written 0
+Mar  9 11:00:29 10.71.57.0 u99526522 [10.71.57.0|get|1|403|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d67726f772e6c657373|]
+Mar  9 11:00:29 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-hang.less" bytes read 911 written 0
+Mar  9 11:00:29 10.71.57.0 u99526522 [10.71.57.0|get|1|911|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d68616e672e6c657373|]
+Mar  9 11:00:29 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-grow-rotate.less" flags READ mode 0666
+Mar  9 11:00:29 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-forward.less" flags READ mode 0666
+Mar  9 11:00:29 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-forward.less" bytes read 396 written 0
+Mar  9 11:00:29 10.71.57.0 u99526522 [10.71.57.0|get|0|396|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d666f72776172642e6c657373|]
+Mar  9 11:00:29 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-grow-rotate.less" bytes read 435 written 0
+Mar  9 11:00:29 10.71.57.0 u99526522 [10.71.57.0|get|0|435|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d67726f772d726f746174652e6c657373|]
+Mar  9 11:00:29 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-float-away.less" flags READ mode 0666
+Mar  9 11:00:29 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-float.less" flags READ mode 0666
+Mar  9 11:00:30 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-float-away.less" bytes read 537 written 0
+Mar  9 11:00:30 10.71.57.0 u99526522 [10.71.57.0|get|1|537|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d666c6f61742d617761792e6c657373|]
+Mar  9 11:00:30 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-float.less" bytes read 397 written 0
+Mar  9 11:00:30 10.71.57.0 u99526522 [10.71.57.0|get|1|397|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d666c6f61742e6c657373|]
+Mar  9 11:00:30 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-fade.less" flags READ mode 0666
+Mar  9 11:00:30 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-drop.less" flags READ mode 0666
+Mar  9 11:00:30 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-fade.less" bytes read 254 written 0
+Mar  9 11:00:30 10.71.57.0 u99526522 [10.71.57.0|get|0|254|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d666164652e6c657373|]
+Mar  9 11:00:30 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-drop.less" bytes read 733 written 0
+Mar  9 11:00:30 10.71.57.0 u99526522 [10.71.57.0|get|0|733|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d64726f702e6c657373|]
+Mar  9 11:00:30 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-down.less" flags READ mode 0666
+Mar  9 11:00:30 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-buzz.less" flags READ mode 0666
+Mar  9 11:00:31 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-down.less" bytes read 482 written 0
+Mar  9 11:00:31 10.71.57.0 u99526522 [10.71.57.0|get|1|482|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d646f776e2e6c657373|]
+Mar  9 11:00:31 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-buzz.less" bytes read 579 written 0
+Mar  9 11:00:31 10.71.57.0 u99526522 [10.71.57.0|get|1|579|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d62757a7a2e6c657373|]
+Mar  9 11:00:31 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-buzz-out.less" flags READ mode 0666
+Mar  9 11:00:31 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-bounce.less" flags READ mode 0666
+Mar  9 11:00:31 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-bounce.less" bytes read 470 written 0
+Mar  9 11:00:31 10.71.57.0 u99526522 [10.71.57.0|get|0|470|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d626f756e63652e6c657373|]
+Mar  9 11:00:31 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-bounce-out.less" flags READ mode 0666
+Mar  9 11:00:31 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-buzz-out.less" bytes read 1109 written 0
+Mar  9 11:00:31 10.71.57.0 u99526522 [10.71.57.0|get|0|1109|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d62757a7a2d6f75742e6c657373|]
+Mar  9 11:00:32 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-bounce-out.less" bytes read 573 written 0
+Mar  9 11:00:32 10.71.57.0 u99526522 [10.71.57.0|get|1|573|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d626f756e63652d6f75742e6c657373|]
+Mar  9 11:00:32 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-bob.less" flags READ mode 0666
+Mar  9 11:00:32 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/icons/_icon-back.less" flags READ mode 0666
+Mar  9 11:00:32 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-bob.less" bytes read 911 written 0
+Mar  9 11:00:32 10.71.57.0 u99526522 [10.71.57.0|get|0|911|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d626f622e6c657373|]
+Mar  9 11:00:32 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/icons/_icon-back.less" bytes read 391 written 0
+Mar  9 11:00:32 10.71.57.0 u99526522 [10.71.57.0|get|0|391|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f69636f6e732f5f69636f6e2d6261636b2e6c657373|]
+Mar  9 11:00:32 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/shadow-and-glow-transitions/_shadow.less" flags READ mode 0666
+Mar  9 11:00:32 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/shadow-and-glow-transitions/_shadow.less" bytes read 221 written 0
+Mar  9 11:00:32 10.71.57.0 u99526522 [10.71.57.0|get|0|221|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f736861646f772e6c657373|]
+Mar  9 11:00:32 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/shadow-and-glow-transitions/_shadow-radial.less" flags READ mode 0666
+Mar  9 11:00:32 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/shadow-and-glow-transitions/_grow-shadow.less" flags READ mode 0666
+Mar  9 11:00:33 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/shadow-and-glow-transitions/_grow-shadow.less" bytes read 280 written 0
+Mar  9 11:00:33 10.71.57.0 u99526522 [10.71.57.0|get|1|280|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f67726f772d736861646f772e6c657373|]
+Mar  9 11:00:33 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/shadow-and-glow-transitions/_shadow-radial.less" bytes read 965 written 0
+Mar  9 11:00:33 10.71.57.0 u99526522 [10.71.57.0|get|1|965|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f736861646f772d72616469616c2e6c657373|]
+Mar  9 11:00:33 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/shadow-and-glow-transitions/_glow.less" flags READ mode 0666
+Mar  9 11:00:33 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/shadow-and-glow-transitions/_float-shadow.less" flags READ mode 0666
+Mar  9 11:00:33 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/shadow-and-glow-transitions/_glow.less" bytes read 201 written 0
+Mar  9 11:00:33 10.71.57.0 u99526522 [10.71.57.0|get|0|201|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f676c6f772e6c657373|]
+Mar  9 11:00:33 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/shadow-and-glow-transitions/_float-shadow.less" bytes read 945 written 0
+Mar  9 11:00:33 10.71.57.0 u99526522 [10.71.57.0|get|0|945|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f666c6f61742d736861646f772e6c657373|]
+Mar  9 11:00:33 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" flags READ mode 0666
+Mar  9 11:00:33 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" flags READ mode 0666
+Mar  9 11:00:34 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" bytes read 231 written 0
+Mar  9 11:00:34 10.71.57.0 u99526522 [10.71.57.0|get|1|231|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f626f782d736861646f772d6f75747365742e6c657373|]
+Mar  9 11:00:34 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" bytes read 443 written 0
+Mar  9 11:00:34 10.71.57.0 u99526522 [10.71.57.0|get|1|443|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f626f782d736861646f772d696e7365742e6c657373|]
+Mar  9 11:00:34 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/speech-bubbles/_bubble-top.less" flags READ mode 0666
+Mar  9 11:00:34 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/speech-bubbles/_bubble-right.less" flags READ mode 0666
+Mar  9 11:00:34 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/speech-bubbles/_bubble-top.less" bytes read 543 written 0
+Mar  9 11:00:34 10.71.57.0 u99526522 [10.71.57.0|get|0|543|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f7370656563682d627562626c65732f5f627562626c652d746f702e6c657373|]
+Mar  9 11:00:34 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/speech-bubbles/_bubble-right.less" bytes read 546 written 0
+Mar  9 11:00:34 10.71.57.0 u99526522 [10.71.57.0|get|0|546|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f7370656563682d627562626c65732f5f627562626c652d72696768742e6c657373|]
+Mar  9 11:00:34 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/speech-bubbles/_bubble-left.less" flags READ mode 0666
+Mar  9 11:00:34 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/speech-bubbles/_bubble-float-top.less" flags READ mode 0666
+Mar  9 11:00:35 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/speech-bubbles/_bubble-left.less" bytes read 546 written 0
+Mar  9 11:00:35 10.71.57.0 u99526522 [10.71.57.0|get|1|546|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f7370656563682d627562626c65732f5f627562626c652d6c6566742e6c657373|]
+Mar  9 11:00:35 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/speech-bubbles/_bubble-float-top.less" bytes read 671 written 0
+Mar  9 11:00:35 10.71.57.0 u99526522 [10.71.57.0|get|1|671|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f7370656563682d627562626c65732f5f627562626c652d666c6f61742d746f702e6c657373|]
+Mar  9 11:00:35 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/speech-bubbles/_bubble-float-right.less" flags READ mode 0666
+Mar  9 11:00:35 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/speech-bubbles/_bubble-float-left.less" flags READ mode 0666
+Mar  9 11:00:35 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/speech-bubbles/_bubble-float-right.less" bytes read 676 written 0
+Mar  9 11:00:35 10.71.57.0 u99526522 [10.71.57.0|get|0|676|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f7370656563682d627562626c65732f5f627562626c652d666c6f61742d72696768742e6c657373|]
+Mar  9 11:00:35 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/speech-bubbles/_bubble-float-left.less" bytes read 673 written 0
+Mar  9 11:00:35 10.71.57.0 u99526522 [10.71.57.0|get|0|673|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f7370656563682d627562626c65732f5f627562626c652d666c6f61742d6c6566742e6c657373|]
+Mar  9 11:00:36 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/speech-bubbles/_bubble-float-bottom.less" flags READ mode 0666
+Mar  9 11:00:36 10.71.57.0 u99526522 open "/css/Hover-master/less/effects/speech-bubbles/_bubble-bottom.less" flags READ mode 0666
+Mar  9 11:00:36 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/speech-bubbles/_bubble-bottom.less" bytes read 549 written 0
+Mar  9 11:00:36 10.71.57.0 u99526522 [10.71.57.0|get|0|549|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f7370656563682d627562626c65732f5f627562626c652d626f74746f6d2e6c657373|]
+Mar  9 11:00:36 10.71.57.0 u99526522 close "/css/Hover-master/less/effects/speech-bubbles/_bubble-float-bottom.less" bytes read 680 written 0
+Mar  9 11:00:36 10.71.57.0 u99526522 [10.71.57.0|get|0|680|0|0|0|2f6373732f486f7665722d6d61737465722f6c6573732f656666656374732f7370656563682d627562626c65732f5f627562626c652d666c6f61742d626f74746f6d2e6c657373|]
+Mar  9 11:00:36 10.71.57.0 u99526522 open "/css/Hover-master/scss/_options.scss" flags READ mode 0666
+Mar  9 11:00:36 10.71.57.0 u99526522 open "/css/Hover-master/scss/_mixins.scss" flags READ mode 0666
+Mar  9 11:00:37 10.71.57.0 u99526522 close "/css/Hover-master/scss/_mixins.scss" bytes read 736 written 0
+Mar  9 11:00:37 10.71.57.0 u99526522 [10.71.57.0|get|1|736|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f5f6d6978696e732e73637373|]
+Mar  9 11:00:37 10.71.57.0 u99526522 open "/css/Hover-master/scss/_hacks.scss" flags READ mode 0666
+Mar  9 11:00:37 10.71.57.0 u99526522 close "/css/Hover-master/scss/_options.scss" bytes read 1207 written 0
+Mar  9 11:00:37 10.71.57.0 u99526522 [10.71.57.0|get|1|1207|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f5f6f7074696f6e732e73637373|]
+Mar  9 11:00:37 10.71.57.0 u99526522 close "/css/Hover-master/scss/_hacks.scss" bytes read 796 written 0
+Mar  9 11:00:37 10.71.57.0 u99526522 [10.71.57.0|get|0|796|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f5f6861636b732e73637373|]
+Mar  9 11:00:37 10.71.57.0 u99526522 open "/css/Hover-master/scss/hover.scss" flags READ mode 0666
+Mar  9 11:00:37 10.71.57.0 u99526522 close "/css/Hover-master/scss/hover.scss" bytes read 15075 written 0
+Mar  9 11:00:37 10.71.57.0 u99526522 [10.71.57.0|get|0|15075|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f686f7665722e73637373|]
+Mar  9 11:00:37 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_wobble-vertical.scss" flags READ mode 0666
+Mar  9 11:00:37 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_wobble-vertical.scss" bytes read 757 written 0
+Mar  9 11:00:37 10.71.57.0 u99526522 [10.71.57.0|get|0|757|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d766572746963616c2e73637373|]
+Mar  9 11:00:38 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_wobble-top.scss" flags READ mode 0666
+Mar  9 11:00:38 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_wobble-to-top-right.scss" flags READ mode 0666
+Mar  9 11:00:38 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_wobble-top.scss" bytes read 755 written 0
+Mar  9 11:00:38 10.71.57.0 u99526522 [10.71.57.0|get|0|755|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d746f702e73637373|]
+Mar  9 11:00:38 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_wobble-to-top-right.scss" bytes read 852 written 0
+Mar  9 11:00:38 10.71.57.0 u99526522 [10.71.57.0|get|0|852|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d746f2d746f702d72696768742e73637373|]
+Mar  9 11:00:38 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_wobble-to-bottom-right.scss" flags READ mode 0666
+Mar  9 11:00:38 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_wobble-skew.scss" flags READ mode 0666
+Mar  9 11:00:38 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_wobble-to-bottom-right.scss" bytes read 809 written 0
+Mar  9 11:00:38 10.71.57.0 u99526522 [10.71.57.0|get|0|809|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d746f2d626f74746f6d2d72696768742e73637373|]
+Mar  9 11:00:38 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_wobble-horizontal.scss" flags READ mode 0666
+Mar  9 11:00:38 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_wobble-skew.scss" bytes read 713 written 0
+Mar  9 11:00:38 10.71.57.0 u99526522 [10.71.57.0|get|0|713|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d736b65772e73637373|]
+Mar  9 11:00:39 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_wobble-horizontal.scss" bytes read 765 written 0
+Mar  9 11:00:39 10.71.57.0 u99526522 [10.71.57.0|get|1|765|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d686f72697a6f6e74616c2e73637373|]
+Mar  9 11:00:39 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_wobble-bottom.scss" flags READ mode 0666
+Mar  9 11:00:39 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_skew.scss" flags READ mode 0666
+Mar  9 11:00:39 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_wobble-bottom.scss" bytes read 767 written 0
+Mar  9 11:00:39 10.71.57.0 u99526522 [10.71.57.0|get|0|767|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f776f62626c652d626f74746f6d2e73637373|]
+Mar  9 11:00:39 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_skew-forward.scss" flags READ mode 0666
+Mar  9 11:00:39 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_skew.scss" bytes read 238 written 0
+Mar  9 11:00:39 10.71.57.0 u99526522 [10.71.57.0|get|0|238|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f736b65772e73637373|]
+Mar  9 11:00:39 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_skew-backward.scss" flags READ mode 0666
+Mar  9 11:00:39 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_skew-forward.scss" bytes read 300 written 0
+Mar  9 11:00:39 10.71.57.0 u99526522 [10.71.57.0|get|0|300|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f736b65772d666f72776172642e73637373|]
+Mar  9 11:00:39 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_sink.scss" flags READ mode 0666
+Mar  9 11:00:39 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_skew-backward.scss" bytes read 301 written 0
+Mar  9 11:00:39 10.71.57.0 u99526522 [10.71.57.0|get|0|301|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f736b65772d6261636b776172642e73637373|]
+Mar  9 11:00:40 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_shrink.scss" flags READ mode 0666
+Mar  9 11:00:40 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_sink.scss" bytes read 299 written 0
+Mar  9 11:00:40 10.71.57.0 u99526522 [10.71.57.0|get|1|299|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f73696e6b2e73637373|]
+Mar  9 11:00:40 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_rotate.scss" flags READ mode 0666
+Mar  9 11:00:40 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_shrink.scss" bytes read 239 written 0
+Mar  9 11:00:40 10.71.57.0 u99526522 [10.71.57.0|get|0|239|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f736872696e6b2e73637373|]
+Mar  9 11:00:40 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_rotate.scss" bytes read 242 written 0
+Mar  9 11:00:40 10.71.57.0 u99526522 [10.71.57.0|get|0|242|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f726f746174652e73637373|]
+Mar  9 11:00:40 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_push.scss" flags READ mode 0666
+Mar  9 11:00:40 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_pulse.scss" flags READ mode 0666
+Mar  9 11:00:40 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_push.scss" bytes read 443 written 0
+Mar  9 11:00:40 10.71.57.0 u99526522 [10.71.57.0|get|0|443|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f707573682e73637373|]
+Mar  9 11:00:40 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_pulse.scss" bytes read 454 written 0
+Mar  9 11:00:40 10.71.57.0 u99526522 [10.71.57.0|get|0|454|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f70756c73652e73637373|]
+Mar  9 11:00:40 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_pulse-shrink.scss" flags READ mode 0666
+Mar  9 11:00:41 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_pulse-grow.scss" flags READ mode 0666
+Mar  9 11:00:41 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_pulse-shrink.scss" bytes read 492 written 0
+Mar  9 11:00:41 10.71.57.0 u99526522 [10.71.57.0|get|1|492|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f70756c73652d736872696e6b2e73637373|]
+Mar  9 11:00:41 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_pulse-grow.scss" bytes read 485 written 0
+Mar  9 11:00:41 10.71.57.0 u99526522 [10.71.57.0|get|0|485|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f70756c73652d67726f772e73637373|]
+Mar  9 11:00:41 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_pop.scss" flags READ mode 0666
+Mar  9 11:00:41 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_hang.scss" flags READ mode 0666
+Mar  9 11:00:41 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_pop.scss" bytes read 398 written 0
+Mar  9 11:00:41 10.71.57.0 u99526522 [10.71.57.0|get|0|398|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f706f702e73637373|]
+Mar  9 11:00:41 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_grow.scss" flags READ mode 0666
+Mar  9 11:00:41 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_hang.scss" bytes read 852 written 0
+Mar  9 11:00:41 10.71.57.0 u99526522 [10.71.57.0|get|0|852|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f68616e672e73637373|]
+Mar  9 11:00:41 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_grow-rotate.scss" flags READ mode 0666
+Mar  9 11:00:41 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_grow.scss" bytes read 236 written 0
+Mar  9 11:00:41 10.71.57.0 u99526522 [10.71.57.0|get|0|236|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f67726f772e73637373|]
+Mar  9 11:00:42 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_forward.scss" flags READ mode 0666
+Mar  9 11:00:42 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_grow-rotate.scss" bytes read 263 written 0
+Mar  9 11:00:42 10.71.57.0 u99526522 [10.71.57.0|get|1|263|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f67726f772d726f746174652e73637373|]
+Mar  9 11:00:42 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_float.scss" flags READ mode 0666
+Mar  9 11:00:42 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_forward.scss" bytes read 247 written 0
+Mar  9 11:00:42 10.71.57.0 u99526522 [10.71.57.0|get|0|247|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f666f72776172642e73637373|]
+Mar  9 11:00:42 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_buzz.scss" flags READ mode 0666
+Mar  9 11:00:42 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_float.scss" bytes read 302 written 0
+Mar  9 11:00:42 10.71.57.0 u99526522 [10.71.57.0|get|0|302|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f666c6f61742e73637373|]
+Mar  9 11:00:42 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_buzz.scss" bytes read 492 written 0
+Mar  9 11:00:42 10.71.57.0 u99526522 [10.71.57.0|get|0|492|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f62757a7a2e73637373|]
+Mar  9 11:00:42 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_buzz-out.scss" flags READ mode 0666
+Mar  9 11:00:42 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_bounce-out.scss" flags READ mode 0666
+Mar  9 11:00:42 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_buzz-out.scss" bytes read 1086 written 0
+Mar  9 11:00:42 10.71.57.0 u99526522 [10.71.57.0|get|0|1086|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f62757a7a2d6f75742e73637373|]
+Mar  9 11:00:43 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_bounce-in.scss" flags READ mode 0666
+Mar  9 11:00:43 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_bounce-out.scss" bytes read 276 written 0
+Mar  9 11:00:43 10.71.57.0 u99526522 [10.71.57.0|get|1|276|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f626f756e63652d6f75742e73637373|]
+Mar  9 11:00:43 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_bounce-in.scss" bytes read 275 written 0
+Mar  9 11:00:43 10.71.57.0 u99526522 [10.71.57.0|get|0|275|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f626f756e63652d696e2e73637373|]
+Mar  9 11:00:43 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_bob.scss" flags READ mode 0666
+Mar  9 11:00:43 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/2d-transitions/_backward.scss" flags READ mode 0666
+Mar  9 11:00:43 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_bob.scss" bytes read 852 written 0
+Mar  9 11:00:43 10.71.57.0 u99526522 [10.71.57.0|get|0|852|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f626f622e73637373|]
+Mar  9 11:00:43 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/2d-transitions/_backward.scss" bytes read 250 written 0
+Mar  9 11:00:43 10.71.57.0 u99526522 [10.71.57.0|get|0|250|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f32642d7472616e736974696f6e732f5f6261636b776172642e73637373|]
+Mar  9 11:00:43 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_sweep-to-top.scss" flags READ mode 0666
+Mar  9 11:00:44 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_sweep-to-right.scss" flags READ mode 0666
+Mar  9 11:00:44 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_sweep-to-top.scss" bytes read 708 written 0
+Mar  9 11:00:44 10.71.57.0 u99526522 [10.71.57.0|get|1|708|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f73776565702d746f2d746f702e73637373|]
+Mar  9 11:00:44 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_sweep-to-right.scss" bytes read 709 written 0
+Mar  9 11:00:44 10.71.57.0 u99526522 [10.71.57.0|get|0|709|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f73776565702d746f2d72696768742e73637373|]
+Mar  9 11:00:44 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_sweep-to-left.scss" flags READ mode 0666
+Mar  9 11:00:44 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_sweep-to-bottom.scss" flags READ mode 0666
+Mar  9 11:00:44 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_sweep-to-left.scss" bytes read 710 written 0
+Mar  9 11:00:44 10.71.57.0 u99526522 [10.71.57.0|get|0|710|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f73776565702d746f2d6c6566742e73637373|]
+Mar  9 11:00:44 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_sweep-to-bottom.scss" bytes read 711 written 0
+Mar  9 11:00:44 10.71.57.0 u99526522 [10.71.57.0|get|0|711|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f73776565702d746f2d626f74746f6d2e73637373|]
+Mar  9 11:00:44 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_shutter-out-vertical.scss" flags READ mode 0666
+Mar  9 11:00:44 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_shutter-out-horizontal.scss" flags READ mode 0666
+Mar  9 11:00:44 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_shutter-out-vertical.scss" bytes read 747 written 0
+Mar  9 11:00:44 10.71.57.0 u99526522 [10.71.57.0|get|0|747|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f736875747465722d6f75742d766572746963616c2e73637373|]
+Mar  9 11:00:45 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_shutter-out-horizontal.scss" bytes read 751 written 0
+Mar  9 11:00:45 10.71.57.0 u99526522 [10.71.57.0|get|1|751|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f736875747465722d6f75742d686f72697a6f6e74616c2e73637373|]
+Mar  9 11:00:45 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_shutter-in-vertical.scss" flags READ mode 0666
+Mar  9 11:00:45 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_shutter-in-horizontal.scss" flags READ mode 0666
+Mar  9 11:00:45 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_shutter-in-vertical.scss" bytes read 745 written 0
+Mar  9 11:00:45 10.71.57.0 u99526522 [10.71.57.0|get|0|745|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f736875747465722d696e2d766572746963616c2e73637373|]
+Mar  9 11:00:45 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_shutter-in-horizontal.scss" bytes read 749 written 0
+Mar  9 11:00:45 10.71.57.0 u99526522 [10.71.57.0|get|0|749|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f736875747465722d696e2d686f72697a6f6e74616c2e73637373|]
+Mar  9 11:00:45 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_rectangle-out.scss" flags READ mode 0666
+Mar  9 11:00:45 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_rectangle-in.scss" flags READ mode 0666
+Mar  9 11:00:45 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_rectangle-out.scss" bytes read 687 written 0
+Mar  9 11:00:45 10.71.57.0 u99526522 [10.71.57.0|get|0|687|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f72656374616e676c652d6f75742e73637373|]
+Mar  9 11:00:45 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_rectangle-in.scss" bytes read 685 written 0
+Mar  9 11:00:45 10.71.57.0 u99526522 [10.71.57.0|get|0|685|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f72656374616e676c652d696e2e73637373|]
+Mar  9 11:00:45 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_radial-out.scss" flags READ mode 0666
+Mar  9 11:00:46 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_radial-out.scss" bytes read 723 written 0
+Mar  9 11:00:46 10.71.57.0 u99526522 [10.71.57.0|get|1|723|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f72616469616c2d6f75742e73637373|]
+Mar  9 11:00:46 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_radial-in.scss" flags READ mode 0666
+Mar  9 11:00:46 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_fade.scss" flags READ mode 0666
+Mar  9 11:00:46 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_radial-in.scss" bytes read 721 written 0
+Mar  9 11:00:46 10.71.57.0 u99526522 [10.71.57.0|get|0|721|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f72616469616c2d696e2e73637373|]
+Mar  9 11:00:46 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_fade.scss" bytes read 277 written 0
+Mar  9 11:00:46 10.71.57.0 u99526522 [10.71.57.0|get|0|277|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f666164652e73637373|]
+Mar  9 11:00:46 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_bounce-to-top.scss" flags READ mode 0666
+Mar  9 11:00:46 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_bounce-to-right.scss" flags READ mode 0666
+Mar  9 11:00:46 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_bounce-to-top.scss" bytes read 788 written 0
+Mar  9 11:00:46 10.71.57.0 u99526522 [10.71.57.0|get|0|788|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f626f756e63652d746f2d746f702e73637373|]
+Mar  9 11:00:46 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_bounce-to-left.scss" flags READ mode 0666
+Mar  9 11:00:46 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_bounce-to-right.scss" bytes read 789 written 0
+Mar  9 11:00:46 10.71.57.0 u99526522 [10.71.57.0|get|0|789|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f626f756e63652d746f2d72696768742e73637373|]
+Mar  9 11:00:47 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_back-pulse.scss" flags READ mode 0666
+Mar  9 11:00:47 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_bounce-to-left.scss" bytes read 790 written 0
+Mar  9 11:00:47 10.71.57.0 u99526522 [10.71.57.0|get|1|790|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f626f756e63652d746f2d6c6566742e73637373|]
+Mar  9 11:00:47 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_back-pulse.scss" bytes read 710 written 0
+Mar  9 11:00:47 10.71.57.0 u99526522 [10.71.57.0|get|0|710|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f6261636b2d70756c73652e73637373|]
+Mar  9 11:00:47 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/background-transitions/_bounce-to-bottom.scss" flags READ mode 0666
+Mar  9 11:00:47 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/background-transitions/_bounce-to-bottom.scss" bytes read 791 written 0
+Mar  9 11:00:47 10.71.57.0 u99526522 [10.71.57.0|get|0|791|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6261636b67726f756e642d7472616e736974696f6e732f5f626f756e63652d746f2d626f74746f6d2e73637373|]
+Mar  9 11:00:47 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_underline-reveal.scss" flags READ mode 0666
+Mar  9 11:00:47 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_underline-reveal.scss" bytes read 603 written 0
+Mar  9 11:00:47 10.71.57.0 u99526522 [10.71.57.0|get|0|603|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f756e6465726c696e652d72657665616c2e73637373|]
+Mar  9 11:00:47 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_underline-from-right.scss" flags READ mode 0666
+Mar  9 11:00:48 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_underline-from-right.scss" bytes read 526 written 0
+Mar  9 11:00:48 10.71.57.0 u99526522 [10.71.57.0|get|1|526|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f756e6465726c696e652d66726f6d2d72696768742e73637373|]
+Mar  9 11:00:48 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_underline-from-left.scss" flags READ mode 0666
+Mar  9 11:00:48 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_underline-from-center.scss" flags READ mode 0666
+Mar  9 11:00:48 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_underline-from-left.scss" bytes read 526 written 0
+Mar  9 11:00:48 10.71.57.0 u99526522 [10.71.57.0|get|0|526|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f756e6465726c696e652d66726f6d2d6c6566742e73637373|]
+Mar  9 11:00:48 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_underline-from-center.scss" bytes read 549 written 0
+Mar  9 11:00:48 10.71.57.0 u99526522 [10.71.57.0|get|0|549|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f756e6465726c696e652d66726f6d2d63656e7465722e73637373|]
+Mar  9 11:00:48 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_trim.scss" flags READ mode 0666
+Mar  9 11:00:48 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_round-corners.scss" flags READ mode 0666
+Mar  9 11:00:48 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_trim.scss" bytes read 517 written 0
+Mar  9 11:00:48 10.71.57.0 u99526522 [10.71.57.0|get|0|517|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f7472696d2e73637373|]
+Mar  9 11:00:48 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_ripple-out.scss" flags READ mode 0666
+Mar  9 11:00:48 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_round-corners.scss" bytes read 236 written 0
+Mar  9 11:00:48 10.71.57.0 u99526522 [10.71.57.0|get|0|236|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f726f756e642d636f726e6572732e73637373|]
+Mar  9 11:00:48 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_ripple-in.scss" flags READ mode 0666
+Mar  9 11:00:48 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_ripple-out.scss" bytes read 608 written 0
+Mar  9 11:00:48 10.71.57.0 u99526522 [10.71.57.0|get|0|608|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f726970706c652d6f75742e73637373|]
+Mar  9 11:00:49 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_reveal.scss" flags READ mode 0666
+Mar  9 11:00:49 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_ripple-in.scss" bytes read 618 written 0
+Mar  9 11:00:49 10.71.57.0 u99526522 [10.71.57.0|get|1|618|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f726970706c652d696e2e73637373|]
+Mar  9 11:00:49 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_reveal.scss" bytes read 605 written 0
+Mar  9 11:00:49 10.71.57.0 u99526522 [10.71.57.0|get|0|605|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f72657665616c2e73637373|]
+Mar  9 11:00:49 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_overline-reveal.scss" flags READ mode 0666
+Mar  9 11:00:49 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_overline-from-right.scss" flags READ mode 0666
+Mar  9 11:00:49 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_overline-reveal.scss" bytes read 599 written 0
+Mar  9 11:00:49 10.71.57.0 u99526522 [10.71.57.0|get|0|599|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f7665726c696e652d72657665616c2e73637373|]
+Mar  9 11:00:49 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_overline-from-right.scss" bytes read 521 written 0
+Mar  9 11:00:49 10.71.57.0 u99526522 [10.71.57.0|get|0|521|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f7665726c696e652d66726f6d2d72696768742e73637373|]
+Mar  9 11:00:49 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_overline-from-left.scss" flags READ mode 0666
+Mar  9 11:00:50 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_overline-from-center.scss" flags READ mode 0666
+Mar  9 11:00:50 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_overline-from-left.scss" bytes read 521 written 0
+Mar  9 11:00:50 10.71.57.0 u99526522 [10.71.57.0|get|1|521|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f7665726c696e652d66726f6d2d6c6566742e73637373|]
+Mar  9 11:00:50 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_overline-from-center.scss" bytes read 544 written 0
+Mar  9 11:00:50 10.71.57.0 u99526522 [10.71.57.0|get|0|544|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f7665726c696e652d66726f6d2d63656e7465722e73637373|]
+Mar  9 11:00:50 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_outline-out.scss" flags READ mode 0666
+Mar  9 11:00:50 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_outline-in.scss" flags READ mode 0666
+Mar  9 11:00:50 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_outline-out.scss" bytes read 656 written 0
+Mar  9 11:00:50 10.71.57.0 u99526522 [10.71.57.0|get|0|656|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f75746c696e652d6f75742e73637373|]
+Mar  9 11:00:50 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_outline-in.scss" bytes read 878 written 0
+Mar  9 11:00:50 10.71.57.0 u99526522 [10.71.57.0|get|0|878|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f6f75746c696e652d696e2e73637373|]
+Mar  9 11:00:50 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_hollow.scss" flags READ mode 0666
+Mar  9 11:00:50 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/border-transitions/_border-fade.scss" flags READ mode 0666
+Mar  9 11:00:50 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_hollow.scss" bytes read 377 written 0
+Mar  9 11:00:50 10.71.57.0 u99526522 [10.71.57.0|get|0|377|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f686f6c6c6f772e73637373|]
+Mar  9 11:00:51 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/border-transitions/_border-fade.scss" bytes read 510 written 0
+Mar  9 11:00:51 10.71.57.0 u99526522 [10.71.57.0|get|1|510|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f626f726465722d7472616e736974696f6e732f5f626f726465722d666164652e73637373|]
+Mar  9 11:00:51 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/curls/_curl-top-right.scss" flags READ mode 0666
+Mar  9 11:00:51 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/curls/_curl-top-left.scss" flags READ mode 0666
+Mar  9 11:00:51 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/curls/_curl-top-right.scss" bytes read 664 written 0
+Mar  9 11:00:51 10.71.57.0 u99526522 [10.71.57.0|get|0|664|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6375726c732f5f6375726c2d746f702d72696768742e73637373|]
+Mar  9 11:00:51 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/curls/_curl-bottom-right.scss" flags READ mode 0666
+Mar  9 11:00:51 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/curls/_curl-top-left.scss" bytes read 810 written 0
+Mar  9 11:00:51 10.71.57.0 u99526522 [10.71.57.0|get|0|810|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6375726c732f5f6375726c2d746f702d6c6566742e73637373|]
+Mar  9 11:00:51 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/curls/_curl-bottom-left.scss" flags READ mode 0666
+Mar  9 11:00:51 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/curls/_curl-bottom-right.scss" bytes read 674 written 0
+Mar  9 11:00:51 10.71.57.0 u99526522 [10.71.57.0|get|0|674|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6375726c732f5f6375726c2d626f74746f6d2d72696768742e73637373|]
+Mar  9 11:00:52 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/curls/_curl-bottom-left.scss" bytes read 669 written 0
+Mar  9 11:00:52 10.71.57.0 u99526522 [10.71.57.0|get|1|669|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f6375726c732f5f6375726c2d626f74746f6d2d6c6566742e73637373|]
+Mar  9 11:00:52 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-wobble-vertical.scss" flags READ mode 0666
+Mar  9 11:00:52 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-wobble-horizontal.scss" flags READ mode 0666
+Mar  9 11:00:52 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-wobble-vertical.scss" bytes read 922 written 0
+Mar  9 11:00:52 10.71.57.0 u99526522 [10.71.57.0|get|0|922|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d776f62626c652d766572746963616c2e73637373|]
+Mar  9 11:00:52 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-wobble-horizontal.scss" bytes read 930 written 0
+Mar  9 11:00:52 10.71.57.0 u99526522 [10.71.57.0|get|0|930|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d776f62626c652d686f72697a6f6e74616c2e73637373|]
+Mar  9 11:00:52 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-up.scss" flags READ mode 0666
+Mar  9 11:00:52 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-spin.scss" flags READ mode 0666
+Mar  9 11:00:52 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-up.scss" bytes read 535 written 0
+Mar  9 11:00:52 10.71.57.0 u99526522 [10.71.57.0|get|0|535|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d75702e73637373|]
+Mar  9 11:00:53 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-sink.scss" flags READ mode 0666
+Mar  9 11:00:53 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-spin.scss" bytes read 338 written 0
+Mar  9 11:00:53 10.71.57.0 u99526522 [10.71.57.0|get|1|338|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d7370696e2e73637373|]
+Mar  9 11:00:53 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-sink-away.scss" flags READ mode 0666
+Mar  9 11:00:53 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-sink.scss" bytes read 454 written 0
+Mar  9 11:00:53 10.71.57.0 u99526522 [10.71.57.0|get|0|454|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d73696e6b2e73637373|]
+Mar  9 11:00:53 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-shrink.scss" flags READ mode 0666
+Mar  9 11:00:53 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-sink-away.scss" bytes read 596 written 0
+Mar  9 11:00:53 10.71.57.0 u99526522 [10.71.57.0|get|0|596|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d73696e6b2d617761792e73637373|]
+Mar  9 11:00:53 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-shrink.scss" bytes read 452 written 0
+Mar  9 11:00:53 10.71.57.0 u99526522 [10.71.57.0|get|0|452|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d736872696e6b2e73637373|]
+Mar  9 11:00:53 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-rotate.scss" flags READ mode 0666
+Mar  9 11:00:53 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-push.scss" flags READ mode 0666
+Mar  9 11:00:53 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-rotate.scss" bytes read 474 written 0
+Mar  9 11:00:53 10.71.57.0 u99526522 [10.71.57.0|get|0|474|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d726f746174652e73637373|]
+Mar  9 11:00:54 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-pulse.scss" flags READ mode 0666
+Mar  9 11:00:54 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-push.scss" bytes read 737 written 0
+Mar  9 11:00:54 10.71.57.0 u99526522 [10.71.57.0|get|1|737|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d707573682e73637373|]
+Mar  9 11:00:54 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-pulse-shrink.scss" flags READ mode 0666
+Mar  9 11:00:54 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-pulse.scss" bytes read 620 written 0
+Mar  9 11:00:54 10.71.57.0 u99526522 [10.71.57.0|get|0|620|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d70756c73652e73637373|]
+Mar  9 11:00:54 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-pulse-grow.scss" flags READ mode 0666
+Mar  9 11:00:54 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-pulse-shrink.scss" bytes read 660 written 0
+Mar  9 11:00:54 10.71.57.0 u99526522 [10.71.57.0|get|0|660|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d70756c73652d736872696e6b2e73637373|]
+Mar  9 11:00:54 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-pop.scss" flags READ mode 0666
+Mar  9 11:00:54 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-pulse-grow.scss" bytes read 652 written 0
+Mar  9 11:00:54 10.71.57.0 u99526522 [10.71.57.0|get|0|652|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d70756c73652d67726f772e73637373|]
+Mar  9 11:00:54 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-hang.scss" flags READ mode 0666
+Mar  9 11:00:54 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-pop.scss" bytes read 734 written 0
+Mar  9 11:00:54 10.71.57.0 u99526522 [10.71.57.0|get|0|734|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d706f702e73637373|]
+Mar  9 11:00:55 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-grow.scss" flags READ mode 0666
+Mar  9 11:00:55 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-hang.scss" bytes read 1030 written 0
+Mar  9 11:00:55 10.71.57.0 u99526522 [10.71.57.0|get|1|1030|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d68616e672e73637373|]
+Mar  9 11:00:55 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-grow.scss" bytes read 463 written 0
+Mar  9 11:00:55 10.71.57.0 u99526522 [10.71.57.0|get|0|463|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d67726f772e73637373|]
+Mar  9 11:00:55 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-grow-rotate.scss" flags READ mode 0666
+Mar  9 11:00:55 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-forward.scss" flags READ mode 0666
+Mar  9 11:00:55 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-grow-rotate.scss" bytes read 495 written 0
+Mar  9 11:00:55 10.71.57.0 u99526522 [10.71.57.0|get|0|495|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d67726f772d726f746174652e73637373|]
+Mar  9 11:00:55 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-forward.scss" bytes read 456 written 0
+Mar  9 11:00:55 10.71.57.0 u99526522 [10.71.57.0|get|0|456|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d666f72776172642e73637373|]
+Mar  9 11:00:55 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-float.scss" flags READ mode 0666
+Mar  9 11:00:55 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-float.scss" bytes read 457 written 0
+Mar  9 11:00:55 10.71.57.0 u99526522 [10.71.57.0|get|0|457|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d666c6f61742e73637373|]
+Mar  9 11:00:55 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-float-away.scss" flags READ mode 0666
+Mar  9 11:00:56 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-fade.scss" flags READ mode 0666
+Mar  9 11:00:56 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-float-away.scss" bytes read 602 written 0
+Mar  9 11:00:56 10.71.57.0 u99526522 [10.71.57.0|get|1|602|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d666c6f61742d617761792e73637373|]
+Mar  9 11:00:56 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-fade.scss" bytes read 290 written 0
+Mar  9 11:00:56 10.71.57.0 u99526522 [10.71.57.0|get|0|290|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d666164652e73637373|]
+Mar  9 11:00:56 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-drop.scss" flags READ mode 0666
+Mar  9 11:00:56 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-down.scss" flags READ mode 0666
+Mar  9 11:00:56 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-drop.scss" bytes read 828 written 0
+Mar  9 11:00:56 10.71.57.0 u99526522 [10.71.57.0|get|0|828|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d64726f702e73637373|]
+Mar  9 11:00:56 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-down.scss" bytes read 544 written 0
+Mar  9 11:00:56 10.71.57.0 u99526522 [10.71.57.0|get|0|544|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d646f776e2e73637373|]
+Mar  9 11:00:56 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-buzz.scss" flags READ mode 0666
+Mar  9 11:00:56 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-buzz-out.scss" flags READ mode 0666
+Mar  9 11:00:57 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-buzz.scss" bytes read 657 written 0
+Mar  9 11:00:57 10.71.57.0 u99526522 [10.71.57.0|get|1|657|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d62757a7a2e73637373|]
+Mar  9 11:00:57 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-bounce.scss" flags READ mode 0666
+Mar  9 11:00:57 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-buzz-out.scss" bytes read 1251 written 0
+Mar  9 11:00:57 10.71.57.0 u99526522 [10.71.57.0|get|1|1251|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d62757a7a2d6f75742e73637373|]
+Mar  9 11:00:57 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-bounce-out.scss" flags READ mode 0666
+Mar  9 11:00:57 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-bounce.scss" bytes read 538 written 0
+Mar  9 11:00:57 10.71.57.0 u99526522 [10.71.57.0|get|0|538|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d626f756e63652e73637373|]
+Mar  9 11:00:57 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-back.scss" flags READ mode 0666
+Mar  9 11:00:57 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-back.scss" bytes read 451 written 0
+Mar  9 11:00:57 10.71.57.0 u99526522 [10.71.57.0|get|0|451|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d6261636b2e73637373|]
+Mar  9 11:00:57 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-bounce-out.scss" bytes read 653 written 0
+Mar  9 11:00:57 10.71.57.0 u99526522 [10.71.57.0|get|0|653|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d626f756e63652d6f75742e73637373|]
+Mar  9 11:00:58 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/icons/_icon-bob.scss" flags READ mode 0666
+Mar  9 11:00:58 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_shadow.scss" flags READ mode 0666
+Mar  9 11:00:58 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/icons/_icon-bob.scss" bytes read 1030 written 0
+Mar  9 11:00:58 10.71.57.0 u99526522 [10.71.57.0|get|0|1030|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f69636f6e732f5f69636f6e2d626f622e73637373|]
+Mar  9 11:00:58 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_shadow.scss" bytes read 249 written 0
+Mar  9 11:00:58 10.71.57.0 u99526522 [10.71.57.0|get|0|249|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f736861646f772e73637373|]
+Mar  9 11:00:58 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_shadow-radial.scss" flags READ mode 0666
+Mar  9 11:00:58 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_grow-shadow.scss" flags READ mode 0666
+Mar  9 11:00:58 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_grow-shadow.scss" bytes read 316 written 0
+Mar  9 11:00:58 10.71.57.0 u99526522 [10.71.57.0|get|0|316|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f67726f772d736861646f772e73637373|]
+Mar  9 11:00:59 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_glow.scss" flags READ mode 0666
+Mar  9 11:00:59 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_shadow-radial.scss" bytes read 993 written 0
+Mar  9 11:00:59 10.71.57.0 u99526522 [10.71.57.0|get|1|993|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f736861646f772d72616469616c2e73637373|]
+Mar  9 11:00:59 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_glow.scss" bytes read 229 written 0
+Mar  9 11:00:59 10.71.57.0 u99526522 [10.71.57.0|get|0|229|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f676c6f772e73637373|]
+Mar  9 11:00:59 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_float-shadow.scss" flags READ mode 0666
+Mar  9 11:00:59 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_box-shadow-inset.scss" flags READ mode 0666
+Mar  9 11:00:59 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_float-shadow.scss" bytes read 1005 written 0
+Mar  9 11:00:59 10.71.57.0 u99526522 [10.71.57.0|get|0|1005|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f666c6f61742d736861646f772e73637373|]
+Mar  9 11:00:59 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_box-shadow-inset.scss" bytes read 471 written 0
+Mar  9 11:00:59 10.71.57.0 u99526522 [10.71.57.0|get|0|471|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f626f782d736861646f772d696e7365742e73637373|]
+Mar  9 11:00:59 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_box-shadow-outset.scss" flags READ mode 0666
+Mar  9 11:01:00 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/speech-bubbles/_bubble-top.scss" flags READ mode 0666
+Mar  9 11:01:00 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/shadow-and-glow-transitions/_box-shadow-outset.scss" bytes read 259 written 0
+Mar  9 11:01:00 10.71.57.0 u99526522 [10.71.57.0|get|1|259|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f736861646f772d616e642d676c6f772d7472616e736974696f6e732f5f626f782d736861646f772d6f75747365742e73637373|]
+Mar  9 11:01:00 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/speech-bubbles/_bubble-top.scss" bytes read 579 written 0
+Mar  9 11:01:00 10.71.57.0 u99526522 [10.71.57.0|get|0|579|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f7370656563682d627562626c65732f5f627562626c652d746f702e73637373|]
+Mar  9 11:01:00 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/speech-bubbles/_bubble-float-top.scss" flags READ mode 0666
+Mar  9 11:01:00 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/speech-bubbles/_bubble-right.scss" flags READ mode 0666
+Mar  9 11:01:00 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/speech-bubbles/_bubble-right.scss" bytes read 582 written 0
+Mar  9 11:01:00 10.71.57.0 u99526522 [10.71.57.0|get|0|582|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f7370656563682d627562626c65732f5f627562626c652d72696768742e73637373|]
+Mar  9 11:01:00 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/speech-bubbles/_bubble-left.scss" flags READ mode 0666
+Mar  9 11:01:00 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/speech-bubbles/_bubble-float-top.scss" bytes read 731 written 0
+Mar  9 11:01:00 10.71.57.0 u99526522 [10.71.57.0|get|0|731|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f7370656563682d627562626c65732f5f627562626c652d666c6f61742d746f702e73637373|]
+Mar  9 11:01:01 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/speech-bubbles/_bubble-left.scss" bytes read 582 written 0
+Mar  9 11:01:01 10.71.57.0 u99526522 [10.71.57.0|get|1|582|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f7370656563682d627562626c65732f5f627562626c652d6c6566742e73637373|]
+Mar  9 11:01:01 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/speech-bubbles/_bubble-float-right.scss" flags READ mode 0666
+Mar  9 11:01:01 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/speech-bubbles/_bubble-float-left.scss" flags READ mode 0666
+Mar  9 11:01:01 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/speech-bubbles/_bubble-float-right.scss" bytes read 736 written 0
+Mar  9 11:01:01 10.71.57.0 u99526522 [10.71.57.0|get|0|736|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f7370656563682d627562626c65732f5f627562626c652d666c6f61742d72696768742e73637373|]
+Mar  9 11:01:01 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/speech-bubbles/_bubble-float-left.scss" bytes read 733 written 0
+Mar  9 11:01:01 10.71.57.0 u99526522 [10.71.57.0|get|0|733|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f7370656563682d627562626c65732f5f627562626c652d666c6f61742d6c6566742e73637373|]
+Mar  9 11:01:01 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/speech-bubbles/_bubble-float-bottom.scss" flags READ mode 0666
+Mar  9 11:01:01 10.71.57.0 u99526522 open "/css/Hover-master/scss/effects/speech-bubbles/_bubble-bottom.scss" flags READ mode 0666
+Mar  9 11:01:01 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/speech-bubbles/_bubble-float-bottom.scss" bytes read 740 written 0
+Mar  9 11:01:01 10.71.57.0 u99526522 [10.71.57.0|get|0|740|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f7370656563682d627562626c65732f5f627562626c652d666c6f61742d626f74746f6d2e73637373|]
+Mar  9 11:01:01 10.71.57.0 u99526522 close "/css/Hover-master/scss/effects/speech-bubbles/_bubble-bottom.scss" bytes read 585 written 0
+Mar  9 11:01:01 10.71.57.0 u99526522 [10.71.57.0|get|0|585|0|0|0|2f6373732f486f7665722d6d61737465722f736373732f656666656374732f7370656563682d627562626c65732f5f627562626c652d626f74746f6d2e73637373|]
+Mar  9 11:01:02 10.71.57.0 u99526522 open "/fonts/montserrat.ttf" flags READ mode 0666
+Mar  9 11:01:02 10.71.57.0 u99526522 open "/fonts/montserrat-hairline.ttf" flags READ mode 0666
+Mar  9 11:01:02 10.71.57.0 u99526522 close "/fonts/montserrat.ttf" bytes read 43924 written 0
+Mar  9 11:01:02 10.71.57.0 u99526522 [10.71.57.0|get|0|43924|0|0|0|2f666f6e74732f6d6f6e747365727261742e747466|]
+Mar  9 11:01:02 10.71.57.0 u99526522 close "/fonts/montserrat-hairline.ttf" bytes read 44020 written 0
+Mar  9 11:01:02 10.71.57.0 u99526522 [10.71.57.0|get|0|44020|0|0|0|2f666f6e74732f6d6f6e747365727261742d686169726c696e652e747466|]
+Mar  9 11:01:03 10.71.57.0 u99526522 open "/images/newlogo2.png" flags READ mode 0666
+Mar  9 11:01:03 10.71.57.0 u99526522 open "/images/logoLirianoFooter3.png" flags READ mode 0666
+Mar  9 11:01:03 10.71.57.0 u99526522 close "/images/logoLirianoFooter3.png" bytes read 2393 written 0
+Mar  9 11:01:03 10.71.57.0 u99526522 [10.71.57.0|get|0|2393|0|0|0|2f696d616765732f6c6f676f4c697269616e6f466f6f746572332e706e67|]
+Mar  9 11:01:03 10.71.57.0 u99526522 open "/images/GLiriano.png" flags READ mode 0666
+Mar  9 11:01:03 10.71.57.0 u99526522 close "/images/newlogo2.png" bytes read 12364 written 0
+Mar  9 11:01:03 10.71.57.0 u99526522 [10.71.57.0|get|0|12364|0|0|0|2f696d616765732f6e65776c6f676f322e706e67|]
+Mar  9 11:01:04 10.71.57.0 u99526522 close "/images/GLiriano.png" bytes read 84700 written 0
+Mar  9 11:01:04 10.71.57.0 u99526522 [10.71.57.0|get|1|84700|0|0|0|2f696d616765732f474c697269616e6f2e706e67|]
+Mar  9 11:01:04 10.71.57.0 u99526522 open "/images/GLiriano.jpg" flags READ mode 0666
+Mar  9 11:01:04 10.71.57.0 u99526522 open "/images/favicon.ico" flags READ mode 0666
+Mar  9 11:01:04 10.71.57.0 u99526522 close "/images/GLiriano.jpg" bytes read 39120 written 0
+Mar  9 11:01:04 10.71.57.0 u99526522 [10.71.57.0|get|0|39120|0|0|0|2f696d616765732f474c697269616e6f2e6a7067|]
+Mar  9 11:01:04 10.71.57.0 u99526522 close "/images/favicon.ico" bytes read 1150 written 0
+Mar  9 11:01:04 10.71.57.0 u99526522 [10.71.57.0|get|0|1150|0|0|0|2f696d616765732f66617669636f6e2e69636f|]
+Mar  9 11:01:04 10.71.57.0 u99526522 open "/images/chaidrv.jpeg" flags READ mode 0666
+Mar  9 11:01:04 10.71.57.0 u99526522 open "/images/cercleXL.png" flags READ mode 0666
+Mar  9 11:01:04 10.71.57.0 u99526522 close "/images/chaidrv.jpeg" bytes read 13600 written 0
+Mar  9 11:01:04 10.71.57.0 u99526522 [10.71.57.0|get|0|13600|0|0|0|2f696d616765732f636861696472762e6a706567|]
+Mar  9 11:01:04 10.71.57.0 u99526522 close "/images/cercleXL.png" bytes read 3279 written 0
+Mar  9 11:01:04 10.71.57.0 u99526522 [10.71.57.0|get|0|3279|0|0|0|2f696d616765732f636572636c65584c2e706e67|]
+Mar  9 11:01:05 10.71.57.0 u99526522 open "/images/cercleS.png" flags READ mode 0666
+Mar  9 11:01:05 10.71.57.0 u99526522 open "/images/cercleL.png" flags READ mode 0666
+Mar  9 11:01:05 10.71.57.0 u99526522 close "/images/cercleL.png" bytes read 2903 written 0
+Mar  9 11:01:05 10.71.57.0 u99526522 [10.71.57.0|get|0|2903|0|0|0|2f696d616765732f636572636c654c2e706e67|]
+Mar  9 11:01:05 10.71.57.0 u99526522 open "/images/cercleF.png" flags READ mode 0666
+Mar  9 11:01:05 10.71.57.0 u99526522 close "/images/cercleS.png" bytes read 2488 written 0
+Mar  9 11:01:05 10.71.57.0 u99526522 [10.71.57.0|get|0|2488|0|0|0|2f696d616765732f636572636c65532e706e67|]
+Mar  9 11:01:05 10.71.57.0 u99526522 close "/images/cercleF.png" bytes read 1979 written 0
+Mar  9 11:01:05 10.71.57.0 u99526522 [10.71.57.0|get|0|1979|0|0|0|2f696d616765732f636572636c65462e706e67|]
+Mar  9 11:01:05 10.71.57.0 u99526522 open "/images/cercle.png" flags READ mode 0666
+Mar  9 11:01:05 10.71.57.0 u99526522 open "/images/caveaflo.jpeg" flags READ mode 0666
+Mar  9 11:01:06 10.71.57.0 u99526522 close "/images/cercle.png" bytes read 1946 written 0
+Mar  9 11:01:06 10.71.57.0 u99526522 [10.71.57.0|get|1|1946|0|0|0|2f696d616765732f636572636c652e706e67|]
+Mar  9 11:01:06 10.71.57.0 u99526522 close "/images/caveaflo.jpeg" bytes read 11670 written 0
+Mar  9 11:01:06 10.71.57.0 u99526522 [10.71.57.0|get|1|11670|0|0|0|2f696d616765732f6361766561666c6f2e6a706567|]
+Mar  9 11:01:06 10.71.57.0 u99526522 open "/images/carteZone.jpg" flags READ mode 0666
+Mar  9 11:01:06 10.71.57.0 u99526522 open "/images/Rotation/cercleXLR.png" flags READ mode 0666
+Mar  9 11:01:06 10.71.57.0 u99526522 close "/images/Rotation/cercleXLR.png" bytes read 4040 written 0
+Mar  9 11:01:06 10.71.57.0 u99526522 [10.71.57.0|get|0|4040|0|0|0|2f696d616765732f526f746174696f6e2f636572636c65584c522e706e67|]
+Mar  9 11:01:07 10.71.57.0 u99526522 open "/images/Rotation/cercleSR.png" flags READ mode 0666
+Mar  9 11:01:07 10.71.57.0 u99526522 close "/images/carteZone.jpg" bytes read 258805 written 0
+Mar  9 11:01:07 10.71.57.0 u99526522 [10.71.57.0|get|1|258805|0|0|0|2f696d616765732f63617274655a6f6e652e6a7067|]
+Mar  9 11:01:07 10.71.57.0 u99526522 close "/images/Rotation/cercleSR.png" bytes read 3088 written 0
+Mar  9 11:01:07 10.71.57.0 u99526522 [10.71.57.0|get|0|3088|0|0|0|2f696d616765732f526f746174696f6e2f636572636c6553522e706e67|]
+Mar  9 11:01:07 10.71.57.0 u99526522 open "/images/Rotation/cercleR.png" flags READ mode 0666
+Mar  9 11:01:07 10.71.57.0 u99526522 open "/images/Rotation/cercleFR.png" flags READ mode 0666
+Mar  9 11:01:07 10.71.57.0 u99526522 close "/images/Rotation/cercleR.png" bytes read 2427 written 0
+Mar  9 11:01:07 10.71.57.0 u99526522 [10.71.57.0|get|0|2427|0|0|0|2f696d616765732f526f746174696f6e2f636572636c65522e706e67|]
+Mar  9 11:01:07 10.71.57.0 u99526522 close "/images/Rotation/cercleFR.png" bytes read 2529 written 0
+Mar  9 11:01:07 10.71.57.0 u99526522 [10.71.57.0|get|0|2529|0|0|0|2f696d616765732f526f746174696f6e2f636572636c6546522e706e67|]
+Mar  9 11:01:08 10.71.57.0 u99526522 open "/images/Rotation/cercleLR.png" flags READ mode 0666
+Mar  9 11:01:08 10.71.57.0 u99526522 open "/logs/access.log.06.gz" flags READ mode 0666
+Mar  9 11:01:08 10.71.57.0 u99526522 close "/images/Rotation/cercleLR.png" bytes read 3604 written 0
+Mar  9 11:01:08 10.71.57.0 u99526522 [10.71.57.0|get|0|3604|0|0|0|2f696d616765732f526f746174696f6e2f636572636c654c522e706e67|]
+Mar  9 11:01:08 10.71.57.0 u99526522 close "/logs/access.log.06.gz" bytes read 2636 written 0
+Mar  9 11:01:08 10.71.57.0 u99526522 [10.71.57.0|get|0|2636|0|0|0|2f6c6f67732f6163636573732e6c6f672e30362e677a|]
+Mar  9 11:01:08 10.71.57.0 u99526522 open "/logs/access.log.09.gz" flags READ mode 0666
+Mar  9 11:01:08 10.71.57.0 u99526522 open "/logs/access.log.10.4.gz" flags READ mode 0666
+Mar  9 11:01:08 10.71.57.0 u99526522 close "/logs/access.log.10.4.gz" bytes read 1165 written 0
+Mar  9 11:01:08 10.71.57.0 u99526522 [10.71.57.0|get|0|1165|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e342e677a|]
+Mar  9 11:01:08 10.71.57.0 u99526522 close "/logs/access.log.09.gz" bytes read 2912 written 0
+Mar  9 11:01:08 10.71.57.0 u99526522 [10.71.57.0|get|0|2912|0|0|0|2f6c6f67732f6163636573732e6c6f672e30392e677a|]
+Mar  9 11:01:09 10.71.57.0 u99526522 open "/logs/access.log.08.gz" flags READ mode 0666
+Mar  9 11:01:09 10.71.57.0 u99526522 open "/logs/sftp.log.09.gz" flags READ mode 0666
+Mar  9 11:01:09 10.71.57.0 u99526522 close "/logs/sftp.log.09.gz" bytes read 223 written 0
+Mar  9 11:01:09 10.71.57.0 u99526522 [10.71.57.0|get|0|223|0|0|0|2f6c6f67732f736674702e6c6f672e30392e677a|]
+Mar  9 11:01:09 10.71.57.0 u99526522 close "/logs/access.log.08.gz" bytes read 2246 written 0
+Mar  9 11:01:09 10.71.57.0 u99526522 [10.71.57.0|get|0|2246|0|0|0|2f6c6f67732f6163636573732e6c6f672e30382e677a|]
+Mar  9 11:01:09 10.71.57.0 u99526522 open "/logs/access.log.10.7.gz" flags READ mode 0666
+Mar  9 11:01:09 10.71.57.0 u99526522 open "/logs/access.log.10.6.gz" flags READ mode 0666
+Mar  9 11:01:09 10.71.57.0 u99526522 close "/logs/access.log.10.6.gz" bytes read 919 written 0
+Mar  9 11:01:09 10.71.57.0 u99526522 [10.71.57.0|get|0|919|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e362e677a|]
+Mar  9 11:01:10 10.71.57.0 u99526522 open "/logs/access.log.10.5.gz" flags READ mode 0666
+Mar  9 11:01:10 10.71.57.0 u99526522 close "/logs/access.log.10.7.gz" bytes read 965 written 0
+Mar  9 11:01:10 10.71.57.0 u99526522 [10.71.57.0|get|1|965|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e372e677a|]
+Mar  9 11:01:10 10.71.57.0 u99526522 close "/logs/access.log.10.5.gz" bytes read 753 written 0
+Mar  9 11:01:10 10.71.57.0 u99526522 [10.71.57.0|get|0|753|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e352e677a|]
+Mar  9 11:01:10 10.71.57.0 u99526522 open "/logs/access.log.10.3.gz" flags READ mode 0666
+Mar  9 11:01:10 10.71.57.0 u99526522 open "/logs/access.log.10.2.gz" flags READ mode 0666
+Mar  9 11:01:10 10.71.57.0 u99526522 close "/logs/access.log.10.3.gz" bytes read 863 written 0
+Mar  9 11:01:10 10.71.57.0 u99526522 [10.71.57.0|get|0|863|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e332e677a|]
+Mar  9 11:01:10 10.71.57.0 u99526522 close "/logs/access.log.10.2.gz" bytes read 720 written 0
+Mar  9 11:01:10 10.71.57.0 u99526522 [10.71.57.0|get|0|720|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e322e677a|]
+Mar  9 11:01:10 10.71.57.0 u99526522 open "/logs/access.log.10.1.gz" flags READ mode 0666
+Mar  9 11:01:10 10.71.57.0 u99526522 open "/logs/access.log.03.gz" flags READ mode 0666
+Mar  9 11:01:11 10.71.57.0 u99526522 close "/logs/access.log.10.1.gz" bytes read 819 written 0
+Mar  9 11:01:11 10.71.57.0 u99526522 [10.71.57.0|get|1|819|0|0|0|2f6c6f67732f6163636573732e6c6f672e31302e312e677a|]
+Mar  9 11:01:11 10.71.57.0 u99526522 close "/logs/access.log.03.gz" bytes read 2394 written 0
+Mar  9 11:01:11 10.71.57.0 u99526522 [10.71.57.0|get|1|2394|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e677a|]
+Mar  9 11:01:11 10.71.57.0 u99526522 open "/logs/access.log.07.gz" flags READ mode 0666
+Mar  9 11:01:11 10.71.57.0 u99526522 open "/logs/access.log.05.gz" flags READ mode 0666
+Mar  9 11:01:11 10.71.57.0 u99526522 close "/logs/access.log.07.gz" bytes read 2548 written 0
+Mar  9 11:01:11 10.71.57.0 u99526522 [10.71.57.0|get|0|2548|0|0|0|2f6c6f67732f6163636573732e6c6f672e30372e677a|]
+Mar  9 11:01:11 10.71.57.0 u99526522 close "/logs/access.log.05.gz" bytes read 2879 written 0
+Mar  9 11:01:11 10.71.57.0 u99526522 [10.71.57.0|get|0|2879|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e677a|]
+Mar  9 11:01:11 10.71.57.0 u99526522 open "/logs/access.log.04.gz" flags READ mode 0666
+Mar  9 11:01:11 10.71.57.0 u99526522 open "/logs/sftp.log" flags READ mode 0666
